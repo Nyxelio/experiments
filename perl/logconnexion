@@ -1,0 +1,285 @@
+
+GET http://www.butineo.fr/
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+200 OK
+    Content-Type: text/html; charset=utf-8
+    Set-Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; path=/; HttpOnly
+    Set-Cookie: VisitId=354426323; expires=Wed, 28-Nov-2012 22:59:59 GMT; path=/; HttpOnly
+
+GET http://www.butineo.fr/Content/Scid_0/Images/nombre_de_gagnants.gif
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/nombre_de_gagnants.gif
+
+GET http://www.butineo.fr/Content/Scid_0/Images/participer.png
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/participer.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/bg-bar-text.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/bg-bar-text.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/fancybox.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/fancybox.png
+
+GET http://www.butineo.fr/logon/popin
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+200 OK
+    Content-Type: text/html; charset=utf-8
+    Set-Cookie: __RequestVerificationToken_Lw__=IEZ430XjoIHykeXOqmKQRjC/df2gbc0/MD78EVlXH/chgUpe1cpUJEyIAzAn7fF5JczC7BatDUc52a0+1dUTeFAUaZ63rZm7mtMNUVCco567hY2tdJNIDUavEMvj7g7iyJlK/FdFkQLNec/xURrX5WZ7gUw=; path=/; HttpOnly
+
+GET http://www.butineo.fr/Content/Scid_0/Images/bg-text5.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; __RequestVerificationToken_Lw__=IEZ430XjoIHykeXOqmKQRjC/df2gbc0/MD78EVlXH/chgUpe1cpUJEyIAzAn7fF5JczC7BatDUc52a0+1dUTeFAUaZ63rZm7mtMNUVCco567hY2tdJNIDUavEMvj7g7iyJlK/FdFkQLNec/xURrX5WZ7gUw=
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/bg-text5.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/les_gagnants_temoignent.gif
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/les_gagnants_temoignent.gif
+
+GET http://www.butineo.fr/Content/Scid_0/Images/elts.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/elts.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/btn-link.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/btn-link.png
+
+GET http://www.butineo.fr/LogOn/PopIn
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/logon/popin
+
+GET http://www.butineo.fr/Content/Scid_0/Images/btn-submit2.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; __RequestVerificationToken_Lw__=IEZ430XjoIHykeXOqmKQRjC/df2gbc0/MD78EVlXH/chgUpe1cpUJEyIAzAn7fF5JczC7BatDUc52a0+1dUTeFAUaZ63rZm7mtMNUVCco567hY2tdJNIDUavEMvj7g7iyJlK/FdFkQLNec/xURrX5WZ7gUw=
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/btn-submit2.png
+
+GET http://www.butineo.fr/Mash/main.scid_0.stylesheet.min.css?v=0.1
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/mash/main.scid_0.stylesheet.min.css?v=0.1
+
+GET http://www.butineo.fr/Mash/main.withoutad.scripts.js?v=0.1
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/mash/main.withoutad.scripts.js?v=0.1
+
+GET http://www.butineo.fr/Content/Scid_0/Images/transparent.png
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/transparent.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/top_4.png
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/top_4.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/bg-bar.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/bg-bar.png
+
+GET http://www.butineo.fr/Mash/main.scid_0.stylesheet.min.css?v=0.1
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; __RequestVerificationToken_Lw__=IEZ430XjoIHykeXOqmKQRjC/df2gbc0/MD78EVlXH/chgUpe1cpUJEyIAzAn7fF5JczC7BatDUc52a0+1dUTeFAUaZ63rZm7mtMNUVCco567hY2tdJNIDUavEMvj7g7iyJlK/FdFkQLNec/xURrX5WZ7gUw=; .ASPXAUTH=5B08291FC81DBE466D358C368509779E05717D458821012E6EDC40FBA6DC7A35DED28DD45A93F65C2D0E39F686E9B8BC8BABFD7D295D26B752507828E78A88A450F4BA1A2FC82E37DC5C01318B0FE3815BF7D911F03FEE39505DE5E402F90979E43F9D25DF938DCA1987F441FB7DBAB915F4D93E8369F88811E078C0FCC2DECB944DB035C4D6AC2261C07813DEE3C7A7F01C3966
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/mash/main.scid_0.stylesheet.min.css?v=0.1
+
+GET http://www.butineo.fr/Content/Scid_0/Images/ico-women.png
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/ico-women.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/pedago-steps.png
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/pedago-steps.png
+
+GET http://www.butineo.fr/Content/Scid_0/Images/les_gagnants.gif
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/les_gagnants.gif
+
+GET http://www.butineo.fr/Content/Scid_0/Images/bg-pedago.gif
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/bg-pedago.gif
+
+GET http://www.butineo.fr/Content/Scid_0/Images/blank.gif
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/blank.gif
+
+GET http://www.butineo.fr/Content/Scid_0/Images/btn-participer.png
+    Cookie: __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.4.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/content/scid_0/images/btn-participer.png
+
+POST http://www.butineo.fr/LogOn/CheckLogOnForm
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; __RequestVerificationToken_Lw__=IEZ430XjoIHykeXOqmKQRjC/df2gbc0/MD78EVlXH/chgUpe1cpUJEyIAzAn7fF5JczC7BatDUc52a0+1dUTeFAUaZ63rZm7mtMNUVCco567hY2tdJNIDUavEMvj7g7iyJlK/FdFkQLNec/xURrX5WZ7gUw=
+    Referer: http://www.butineo.fr/
+    emailAddress         => datenshi33@gmail.com
+    password             => k3stnWM7
+    rememberMe           => true
+    __RequestVerificationToken => buHccG/IAnnE9gDS0h8qGfY2WUQDqn82kuCqNZiAz9JSWo8EmZoaO4eVWnGkWSPkd6tCnuHZ4bPVEWszk7OAKF6BcleVXCb9o6be++YXRcrxiGN9LD+kTSC0JlIymFVklEiydu1POSB/cUfw/kudxnEdWZb1BFlgbA3qv7YCDLFIcL3m
+
+GET http://www.butineo.fr/
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; __RequestVerificationToken_Lw__=IEZ430XjoIHykeXOqmKQRjC/df2gbc0/MD78EVlXH/chgUpe1cpUJEyIAzAn7fF5JczC7BatDUc52a0+1dUTeFAUaZ63rZm7mtMNUVCco567hY2tdJNIDUavEMvj7g7iyJlK/FdFkQLNec/xURrX5WZ7gUw=; .ASPXAUTH=5B08291FC81DBE466D358C368509779E05717D458821012E6EDC40FBA6DC7A35DED28DD45A93F65C2D0E39F686E9B8BC8BABFD7D295D26B752507828E78A88A450F4BA1A2FC82E37DC5C01318B0FE3815BF7D911F03FEE39505DE5E402F90979E43F9D25DF938DCA1987F441FB7DBAB915F4D93E8369F88811E078C0FCC2DECB944DB035C4D6AC2261C07813DEE3C7A7F01C3966
+    Referer: http://www.butineo.fr/
+200 OK
+    Content-Type: text/html; charset=utf-8
+
+GET http://www.butineo.fr/Mash/main.withoutad.scripts.js?v=0.1
+    Cookie: Marvin_SessionId=1wekyyjuy1e0wt4k5bu4lwap; VisitId=354426323; __utma=55349688.784051598.1351950369.1354125062.1354132231.56; __utmb=55349688.5.10.1354132231; __utmc=55349688; __utmz=55349688.1351950369.1.1.utmcsr=radins.com|utmccn=(referral)|utmcmd=referral|utmcct=/jeux-concours/linkerLoad-1855/; __RequestVerificationToken_Lw__=IEZ430XjoIHykeXOqmKQRjC/df2gbc0/MD78EVlXH/chgUpe1cpUJEyIAzAn7fF5JczC7BatDUc52a0+1dUTeFAUaZ63rZm7mtMNUVCco567hY2tdJNIDUavEMvj7g7iyJlK/FdFkQLNec/xURrX5WZ7gUw=; .ASPXAUTH=5B08291FC81DBE466D358C368509779E05717D458821012E6EDC40FBA6DC7A35DED28DD45A93F65C2D0E39F686E9B8BC8BABFD7D295D26B752507828E78A88A450F4BA1A2FC82E37DC5C01318B0FE3815BF7D911F03FEE39505DE5E402F90979E43F9D25DF938DCA1987F441FB7DBAB915F4D93E8369F88811E078C0FCC2DECB944DB035C4D6AC2261C07813DEE3C7A7F01C3966
+    Referer: http://www.butineo.fr/
+301 Moved Permanently
+    Content-Type: text/html; charset=UTF-8
+    Location: http://www.butineo.fr/mash/main.withoutad.scripts.js?v=0.1
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEwBAAAnK3jbKlPe_GPL5EOXqAQWgwuAnAJEpQZd1lNxy1WP8ofFAYZdor4Eql59koB_juPtKwxOWpWY5U1ekwBTJCE6yGQKyLavUUGPP5uyL3TMAbrdCoAeWXmJdDMv1hMMmO2RLIChRfbsuU3Vq0OVaGD_dR0TptAlRTdrRphh36Ros-LCN10tLIiuYc0tJL3l-yxJNmr-sDx7WX7xTRUzLQlh4P22tOo0eogQaNQhYDpMINVwfLpm1gz8Q9bfdOK6NdpW3bXCpJaQ1WyunvogMEE3cRV58i-A3yOunNuZpqnEDyxQYeG7WG1RwRvR6-m5qdnd6oEHHoQvztWa67lE1H_g8S6YXFP2HsbSdeqgc0p0vC5K-Q0gxMTGOt7UHUWp4Kc_97yMHdjc0VxjnCfIFKUsW8K2aOUFzjwjVh4wbu8U_cke3AR-aoPOIYG7hNPATPg
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQW02o5wfJ5nEoOwjCkDGWzkLxume5P0BlsV0cO-Kj1xAODAZyTOFDom5wfPpP8wD_5yUIsR0mEe3Dj_RO6nowuwDV5NhCm5voty6tDghs8vJJTOO60WP0mOulSTegv_ZLiFOx0pOsa4kR3W5mu5s2toD2Q7Q3MXGdfG3_KxjaS-j5SsK8BRrnHF5dArHx3Kk0vq6dMLN8yF1KN1IGak-ph6FDFcghl8FxKovG5N5rok46YiYT_BzSPtmoUscYAJnDuxcbpH8uS38mZ8v8bIwyou86yvroADkTT4__0VP3041VQb4kLQ9i5r-4innQaceau22owfaENCXwlJKnVDPng2GqNnEbjeUKbG1WJKolOn8wMMJgGZn5KS3oHo5IfRGwFhG0D9i-bNt52ryf2dGPx0OkHcls8PFTpQ85hWTd0S1o
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEwBAAAnK3jbKlPe_GPL5EOXqAQWE7KYVnttLbr03_FOj9sSDH6dxMZxiYWMSiUuznouNRXBVhTFt3sviiKvlooD50gs73c0Clmt28kycA3W5g9EGiKFtRtSyyG3nIZgHnF_VDeiPYcghmBHYMJLIbsJZ4Iw1FrKzy-li6Wa2yTQ84GOmVHBE2vUJFNZgOOVTVnf0Jf24-M2rL4Nq1xw-duC7JFxCROmHskonAzgGNMeuaaJdnrQFto1jVlzi9pqmbC3r7DKHkiuE71lFBWu8gzyphHTUu60PApqx97rgN872TOZDmLBKYg7ZNLqBfbqkFTqd1OX29Eyef5sI-JneH_mW0b9mjNT_UgimmeK187_Y5HoI-p8poYVyuD8bu1I-nLPQqivJqNx-fSQAV74cLV5jqKRQCTif5SRwT2955UZR8aTSxP87uv37q4a0kqBj7qmM_8
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQWQSd597hziRhL_Df7dRy9yonTfFPJUW-VVXuOyohKCTMRwho_RXShuV3vxoDY0EjA80ayRfC0KCXpUQw_wKLf33tnPBzprP2c5n8wfl86GdriDrH_nZi40tDtRvf-fuCWZ67HHxWYVKiaZwJFxTKs_9Rt0JUq30hCfIue4Z8IFQMb5ieSDGMWFZkVUkKufsCTP32FChE1hcKKE4zr4_nmMz8HhponTmlXLf807jCEe-5fAF8ruKjI7ixsgVJ9KNBrcEb64fJG0kB1jI6kO1eyMM0wzx0lqdjRkpf4Rc3W8juZV0EwSH7mwMwXcjyMystcN5_1vgNPQj1qWd5YhC3JZ-ILzL-XDnxxWTL0bLRVv-tJ5SGF8hTxQBGT4nU9OUMpb3NTJrvwfvlAH42eTk30zSYZ_5ktTKKeQInm7axIU6c
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQWeK4vqeEahRzjptPe5B_HiG70ATQIKuK77rv1EfszU__h5nlKfuYL8wdy-M15YVCFYexn_IgwH5fA0BgKEGXgknsCoP-zeCPdmxkcealhQjaA6yUGfOk1NozWTuaLoPIg3lvqb77nWHkWiEVz4oraijXk10d1GQF0xfJUZFwjiLR2Pajmp5vAcqqgwOwmA7EGq6RIxxahPV_bYD8GczZJLl8p-2F8vNeExWB34EhS9g4crmJryJ4LpjhgHXKf5uHK5uRPDdOJ9h-ueehUPzKG2Rdw_ASSN7FHj57-2NBbbUsc9MdE0XzJni16QqwtSiFrWwf8I977ACXWi2Pr_tH7XZ18sQA8CPg2EE8DrK5c_O7OIn_vA0bs9qPO9TSRtfECRIOOS0hGhDEZDIabxCYp3N1zx1AIfLzDRGL65tOXIu4
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQWCsAaAKeOYPhZYmfAY0nkRkoB8pJKzs8dn6_V4A_Fn7fYlvhgcrYwyI6WgeXZAvaehxcOKa5VqEMXAuMITWnQpYS_p7-vQciSm9tOW5OZsZpAwH1ELKLxCJPSTUSbE4pu8Gi6ZXLCcCWARNU-cguQQs3jns5fTSTdsmj4ht12RANmqr_mgppYQa8-PvesEO9isvRUg0Jase-MQPXIT7Hnrcht4dOeVh9Y0B1gEz7nSzuJzNFPpXEf8tLtMa31ewKoiyY7ZAccQzp0itLoCYeyZr706oPjEVuMRvZb9O82VMy7j0KvINvDP9TnYDb4nxG-xeAnFlMwT8kLAqg1SZDlV2dOXwMj0xPn29zHiXPWoOlChUphb2qWrSZsh2uN6bswVmnKKG_y3J3n6FZI0skURYt8UdS6laJcNnVkB4D-tMA
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEwBAAAnK3jbKlPe_GPL5EOXqAQW-hkfkagBFHATVSA4UWQaRJA519_wpJbeApFHzMGpA1YzelHzvUd6KpoEVLdf-1QPBuVGblN9GPRFNxRa608dT7V-QMigQpUy-c1IeaUGKr5jtFGJY5oqHEacb7i4aAFoic9HGu2yzXilLX_7NC4vjJUfWVCN6mBre_-SNhHntGvj9Ft9HanvA9M0GOtYx1OKdee0b9MMzGJemPwHZyUgsYRXTV65QUOQhlGWtGnLr-bTfznC-UkkFGM1Ydpm6BBVZsh3DBbxpetATycZPtGfWZqUbKYHUuFlskJWA1EwhRCHqqJDvgOgtA-i1Cy3rvFQgne5OMRV6rUc5IzHCeBndZhzX1S17zbkkWWUVHNvzR1XMepatBPif2kXgjfMpt1fRdjxHiECEJOS8gxIQ0_OOYzxZLsP9LVF_bGd91bUNek
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQWrF8rxgf1KxG6-VyoMQ3rCqufDwJdWroWcjqh95VZAE_eA_PkQy-nfxwptC-ajkMBas6wizT-ad6Ci0fYU6aO8VdbzS2hC4hTUSAC_0MtbVZiCbFYlF7JnB0PcN33SCNQZlXIkaTmVXnTOD5tKrTO4a_xNn9yWvNZ2n2N2vZZ49NxHz2Wqa4Ih7CUwCm5WHTvcs1auCECtNU6F-_UiGN8JAcjb0r082EdFfGzDfem4xCBE4oD4PIeeaBcoNhOzmCDAjFusiRX03g8Ik-DnHZUBiCXFW4J_JYIXdZk27e_VdFBMoAvI2rXYOAsjFeVkxQD6sIEXGdK3bOuZZJ1_n0nZqojJfky2W3k_PcVXqFvc14S07CYjktnSvU2s_D6zyZQSSNizyyxteZiaR_VJDO7IA5nEiabwPDAuyyN6AIHH-M
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQWn0-rsThyZHbEwxyqzjaFFxdX1TTM6Q8-ZxxGoNNbKPNNu1pTaI1IZJKjxaZYgYtSBByV0E3OhBmDi4HxxhS50XLN8dc844IxGLg-W3fgpaiycvV1hCYMQUe49eOV7uO64UGH70L615D9A7qfERpyMbYVUWP71F22bg_Zj-8QFjKe5jIFCzhga4zPB72zm9CpGnZAGX_QGY1lUZlm7vtAcjrKfjATf2R4L5BwTB-fTwImdKeA3n-WwdCK9b0h4uCjKAK40MVbOix5bWuqMQYrR8bf7ppjhLrXPjgnSRZqIDKEh0HY9p8PbA046HMzkxk43L6n3UWmlbz5RDZXSaqPGJCYsjCLdjVz2dXaMUNeakZZWW_RBS3y34bwVSFuBhILEFHY8TJ41fEQU1fa6FS2NREafrwWd-oRZcfHwDUMY-o
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQWTtcgVxXg4Ir63VadUwql9x11wAeNqQDCeMB-iQp-RsgMLsZn_aY2xpdMl0hUokO9IKAIaiDeFx2G2XD3eaYKmWcoc7Uq1KdyomfdlS89lZ-1foQjRnLw_WtiL27rlyqFAV7s1hEUaMZNdvo3S69lp_yP-bCLmIQq0YfUC63dJHNNxm6OMi8w8-nE5nLBmC45FC5U8mudB-GQPyK5WE5CMxJQjuqB54gxz1yxhaQCCe6CXHZEbj_A_3dRUM7-sLduad_2jTe3P3om6Cdbuvt0rJ3hOk-AVOihhhXAtlr9cpsttzjg9AR7C8yvG0aED82DE29dOlakiZ4DL5ztJDYhIMftJFH6PHHl4z5d0nNOux3n7xuE9Guonb9Y96khkgizxHa4LOZy6BZ9qaIN9WskXOu9BGXeRcupLRSVGe-cY6M
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQW_PcOOOtUjaufPYfdisY_5v8lpiqS1N9IQtsz79gNqUhYZaIa9tk1UUCYbiDYA2vf1_vaQc37sUa0AgaSVUIodCx0OVYhKsb_12hgSeUN6fngtl9b6agaYQUesdqBEoDdJKTtviTXUT4XvKRPw3t1AwhIjHsTEuZE2CqqQlV8vP29h3R_-88qZAW_0wSsCe8AMz4hZrX1jFp0VeirHuO2V2XBpdj2hDEK9wPU5fFpV2ZNWe54NI7njRbodfHLJN8jff9GNr9WmaW_b4rmCybMdla23Xm54Ix-fxre3OqVU_Slo8RdZiOTnGn3VeItUMvYgUqFC9l0M71lsB5TvtBHBzMRUap7BKPxEBoo1UkBEfKFQFMXIrYHCokZw6VTVPr7tKgubJTDpkcOJVSnpx_BpSxn5FvTQScAiFMS4u444nA
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQWl6vU_1zye2nvefhd52pyLFMr9r8bxb67Cucfn90FxomOHQwAgY7911CeVBrP_s_clSa7JeVu251KaEvjM-c86EQLXGxFHIii6fQ-ZmhBDJWlN_37RyYhE18zCz-t4-mjRGYigi2tRdqquFb5d5tF4TAPBrw31Xs0RZAUJTNZwJPwcywa8LTrDLq8vPlDtWqKFHWAfqRB-17H5jQJb5cYc1Acg9rSV1rb8GatnXExPICJT75HLWLyfb-i88G-Nh_Ny2uaCDGuo6Ph5pmmvqecEFmB4Vyg9y8CNqZaJu9MzgmZ947d8hmW2Pxu27pMAbeMqfC_v8mUdIdv0VjTqLU6YeuTegx13TNjFRH5KMe67HhLakOgApFMkMppGIxNTkUTv2o4XD5P-iffUXGwJEW0zrwnOdZLN3GJG1jt39haAbg
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQWEWYhkdXosJWzHSCBvH3FwYLRqTEQubkD6fJ4pVtQ08h65i90AbUGDz8dOzHREq_O3S2gJDOcr5mc1PrqE-qrIAZD8iPgmZj3yKblWsehDpVPZFVPExXWYQ5JUgvH8TivhiFX-g8PSIRFc8OSzktcG7_voeSl9UsUeeA46NZ_8cVH3QAz0FL4XDQldcKAhrO6nnfDJDfq4axGO5YopgcrDsyArrg3Z_xQGkEHK8d8nsAwtfLBRhIJgC786zY65ahKLmZYIF7nA1tfsUqgHTX_Cuv9vOSq5XakWc6Hujhx5GaE6wAYjyE77NjjdUgLRDrTFINw_ikIkFtgcTwKNAwIhTW5NkAux0KCp00vOegqHGfYzQGAtk7Z7K8OfhFNrQQ0e_nU_U5DPWEKgzKMupBJsL-nSAt0dtByGLFV4LOkl-w
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQWbOF9oVpkyoXbzbT1wuDn6WGJ_YuSYz_BRkwMRTz_GvJlwed_8R7aNjYcB6pFmXwQPA0fG7F-l56WQAq8B7v2f_P0rWCXLOjsT7avaEi0lgNX4QV06wkYO-tfqw0C7cMPZkdsll14aJo8ifu3quaAULhlZbbsuKdJKY9ULaSTnwCyhhcV7NhGFH-RQMEVEMnj06RakYTuXILAGVzhRSmbFudfLjzJjL6ODAGqv0u0riETh01s__-84rHhZ0egeWwHvEj17MZjLuaQVJHqK7NUrbpfk7yPtJsq9dDPbKCviv5hvfG8a93DrK99WJZy44v-swHb4blWOXsYgwk_axjE8R-j-Jp72U9pGX2azLivF0x24fvpgNl_3xHiyko57cA14MumrfjizmYHKdHNIcMLYykO6F6jVtBNaZx5iKsxSLo
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQWrhAJAE-YOX1ps3YdBEC2GPRzwWsuY-ekdMe8Wcc2q_Pd9A_qASZqkW_fFKMpLF2WGuyqUp9WMiCB7Bq0f9k5kLWBE3FtIkJP4txRhTFL79YwWE_8X6byWxBpIpsPPCbRcw-j1mlmNGQwrV7HQiABO8OSMYQSgRxjvoQjDyeBRCa8PjtZYV8a5Bhm4A3uOx7TWdudr90-molI-ZfVhW5aSqvb2qOZpeB4W39zof2D3stdc8vQxZK1fLXg5oBqFiMusfJRlVarAk53odVqPh4ZV3G7c-HZSsGiBEAuG14KbUPCtDpryLbIuCKdwaHR-g9EPS0TIFqYDuDty_QC5tXAfGy1LpU5HPLBPH2mzBFJjz2p7-yKQyD0svn7wKuTTN43BW5L9gI1WlGIwEmpn1GDdeYEO-CO1Ru1IJrlI8bEO18
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQWLWaqN0FzGfLjzqBD2CwZjtUkvri0Sh-UbZB9ScJ_il1ZsMdtmq6rRrR4rXks7GKiPqL6wwbehlQNwD0CoaEuuLuE4yqr7-4RDgakuMO4Awb-763blHVJfOXtb_hDbRbpfp3JkAhg1aKdEmoHVYCbKBh5HS1ohUh1b6whhoMG7sRxRFysCMi3G5gMIQ_-vFwEc9jSvIfhu3i66ohowyUzbd9cG3OGx9tkM_hXMZqcZbW5z6eAJijzVFUItstAYcBzfSGW6lF2P9TZBJnCZp_9hwMaCL9Cxae1GZ8FsXbq8d8EMyOUtjwSeQj4bOltWPLPF_sDkvoqWRlwQ8A2RzINJwvDdoDioK1zjHGLniwnb0kM2lAfogqRNBG0F5C9n3kHr3Cf6Pm31ihSyUC7EyKsYXv8VzfHfjtX0WcHrNMh9oE
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEsBAAAnK3jbKlPe_GPL5EOXqAQW7ayFfMHb4uraS00SVQhn6qGctCnQEyuBRicH3ysIOfdPCXr8HXl2cQJ3mhMuLJ4Ojhlju4Krk_r3nEJdW0nFgirLyBtFu3VJCLSa7sTk00dRczfXku-iLjxwDRJOzRFKTCI3_KRkolVt1ZQEkfLy4l1mblDGaRHA_mcVonldbZKouyCnk9lb4zo25d6CMP--cgFb_fr9vuGJVBx__YiI8buI61kDjJffDHetBqngVkvzIVgL2xsWw6Xp25f91cLvgjCfMknp4FpUdWaH2j3s_93EHRRRt5gXiH7yzvNCrfVTNaK0X-B6EwBFZKczwzqzkpdt3ieeSFzonAnl4o5qP-5ZlW_M22ZmVDyzwa3cyGVj75o_vhkm0Othj_cCK_On-cbHvFI_NTeT7ntMB7TRmDDj3nA--m7nUXHBXCwAfGw
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQWq1U9OP5rREIlxG7fv5EfcC0xonBWY1d5Tj-HgzkrjLZ4WkpDeFwXr3Bh0Nus0aAu1NC6AMBPVasHlZCozkDPjULn4VkEMBowZjo2UnuTm6YRtk7fdvQ7rbgmH91tiN1gpI-Maw-PACD65W3-XNawjrleLeTSDbUuRry2PxxmCSOZirJae2iqWnj_6qXfR8ISLcJ9SfRHXuo3XwNHwdLNUoPiMNvq9jxXAKbh_wUIg-mTg4ECnQLD-5o4eyoRDmxrqlMNo2D6WUicWC7AO1lujx6NvgJTxT1l5lNlwTDStJh5b84auJcXO0zwTmx566kEr72V3hbFMXKudIYHD2hg5aVik53D66W4Q7PdRLahzCK8p6_X4-PLDwNtZ61dGYlU4c4r3agZJ66BIr12xaDT3z06QQ5rwQhLvn_6nD-XFrQ
+200 OK
+    Content-Type: text/javascript; charset=UTF-8
+
+GET http://www.google.com/reader/api/0/unread-count?output=json&client=chromenotifier&refresh=true
+    Cookie: GRLD=fr:12007146204319826684; rememberme=true; PREF=ID=e8e3a0bfdd224cd1:U=d95e5ce0cb3466e5:FF=0:LD=en:CR=2:TM=1244217079:LM=1338894370:DV=4TFYAsHc7oYG:GM=1:IG=4:S=tf20lckZpCXMaHs0; NID=60=bbf9TO7jwcTHmJ9QCgW7c4z1MDVCJFHoWutgkiJO7dKjfJLahjKsS-Urnpnn2HFwvFqQIAD-_G1rvAIDFVYLO4Lawcfs1K-_k6Ys30_GXEIkWn8HPJ-utsASzfMmepoXutNRaEnV5eZBO1GYRX5mwUjcwxqzdz_lv3G9VwBHvY8t93tYOH463YONpvxG3lbO9drCQIGlb3JnalYsU97svBoNob7E5qo4HwDlSZNj; HSID=Ayp9JJK0EBuRbfyKC; APISID=l4AIZ9liYauoaUtZ/ASLNoB8MvtER-vy7n; SS=DQAAAE0BAABDs685r4GhSGBc9wxLb4Q0GNphWGiQTmDgzwTHO3PdYMmsjWH84e-aeavvyM_wWWQC6LHWY9g8KLtGqJTeQ204NQRdLFYGxwdO1MGY8jIl_b-D2o916aUjU8P5S8SVYgH5UL0lSckK8JP133BcZvgiPPMMRRGMRQWQuq8ZAh7IJ6lHPHLPrgMhVEIenMahzEiPaIQlpGlP7DMrUVw8m0u221vUc1qkGJ-M1nKMOtcDhqSP2hX3vRAyDqg3iIHk43XiI1v8dUvHm7xyR1mN0GmgSCH7Vqc9uBY3BFYdwTxPRk6P_lknqI5_9fHFVvLRLDYBhXyqrKDFvwumHrP060PzvbxheHtgBp6DM9cHK0v4tWBm4CV7_kP6jzmw1djfvgGWa6vqt_Fce3Mp7-2WaptthMlnDh4LqkcGzLXvJ4sxcewJ1Vkp9p-mKfO2mFXM0Bc; SID=DQAAAEoBAAAnK3jbKlPe_GPL5EOXqAQWAt05A794Zt6ZfiYofE5wrHW7ZUoKiufrEzmSh5ErcAlL7wzrNorbAyGJ9uxTVjtVF7hP5ChpwSB0-GNIDJcUCvxidGUex8AiNEULL1xfUyWzTrmpM1TFbSGV6x-1TVu5RVD-GMQ8Ayi1QrOq5S-PWdTKCXAI9TqjkTLZpnPaophenVBDQBLDOotXRo1ltoa3fCDdmJsEfGiUMNvdQuVivXzpM5oUBsxgos9W9QTmO_6PYtJuSAJaiqTsAlO_m5thnFk9USczWoWhAkEcLfZvoEjQZaA4IXwn3KW9DW952QnzGvMlY_EqShKkwYJ3WpGnqU0F0i4AGRlilJ79Erv9TvAqzwU1ht39joepA7CQZxblD7mJD3EanHWsb8LJC_x6yS70-CVyG1lp9si-49A1NKK_c03EVtJF5kTP_GaZc9k
+200 OK
+    Content-Type: text/javascript; charset=UTF-8

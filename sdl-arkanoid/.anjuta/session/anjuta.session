@@ -1,0 +1,11 @@
+
+[Anjuta]
+Maximized=1
+Geometry=1280x725+0+25
+
+[File Loader]
+Files=file:///home/datenshi33/Projects/sdl-arkanoid/src/main.c#32
+
+[Execution]
+Program arguments=
+Run in terminal=1

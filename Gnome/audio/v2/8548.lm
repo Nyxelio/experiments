@@ -1,0 +1,34 @@
+Language model created by QuickLM on Sat Sep 13 14:34:41 EDT 2008
+Copyright (c) 1996-2000
+Carnegie Mellon University and Alexander I. Rudnicky
+
+This model based on a corpus of 3 sentences and 5 words
+The (fixed) discount mass is 0.5
+
+\data\
+ngram 1=5
+ngram 2=6
+ngram 3=3
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.2553 FERMER -0.2218
+-1.2553 OUVRIR -0.2218
+-1.2553 SHAD -0.2218
+
+\2-grams:
+-0.7782 <s> FERMER 0.0000
+-0.7782 <s> OUVRIR 0.0000
+-0.7782 <s> SHAD 0.0000
+-0.3010 FERMER </s> -0.3010
+-0.3010 OUVRIR </s> -0.3010
+-0.3010 SHAD </s> -0.3010
+
+\3-grams:
+-0.3010 <s> FERMER </s>
+-0.3010 <s> OUVRIR </s>
+-0.3010 <s> SHAD </s>
+
+\end\
+

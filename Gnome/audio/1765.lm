@@ -1,0 +1,34 @@
+Language model created by QuickLM on Sat Sep 13 13:18:49 EDT 2008
+Copyright (c) 1996-2000
+Carnegie Mellon University and Alexander I. Rudnicky
+
+This model based on a corpus of 3 sentences and 5 words
+The (fixed) discount mass is 0.5
+
+\data\
+ngram 1=5
+ngram 2=6
+ngram 3=3
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.2553 HELLO -0.2218
+-1.2553 PLEASE -0.2218
+-1.2553 YELLOW -0.2218
+
+\2-grams:
+-0.7782 <s> HELLO 0.0000
+-0.7782 <s> PLEASE 0.0000
+-0.7782 <s> YELLOW 0.0000
+-0.3010 HELLO </s> -0.3010
+-0.3010 PLEASE </s> -0.3010
+-0.3010 YELLOW </s> -0.3010
+
+\3-grams:
+-0.3010 <s> HELLO </s>
+-0.3010 <s> PLEASE </s>
+-0.3010 <s> YELLOW </s>
+
+\end\
+

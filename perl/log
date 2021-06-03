@@ -1,0 +1,181 @@
+I, MOZREPL : Listening : 127.0.0.1:4242
+I, MOZREPL : Client connected : 127.0.0.1:56373 : chrome://browser/content/browser.xul
+Connexion: ok
+appel page principale: ok
+Infos membre gratuit: ok
+Nombre de Jetons Gratuits: 0
+Infos membre payant: ok
+Nombre de Jetons Payants: 0
+Appel Validation banniÃ¨res: ok
+liste: 6
+
+../jeuxcmul.php?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Lipala - Des cadeaux à gogo !</title>
+<meta name="description" content="Lipala pour gagner des cadeaux et de argents sur internet.Découvrez des centaines de jeux gratuit , jeux flash , jeux d'élévages , instant gagnant , jeux simulation...">
+<meta name="Keywords" content="cadeaux, gratuit, jeu gratuit, codes, jeux gratuits, cadeau, instant, internet rémunérés, gagner cadeaux ,mails rémunérés, jeu d'argent, gagner codes, jeux en ligne, facile, jeux de réflexion, divertissements, jeux online, astuces, jeux sur internet, site de jeux, prizee, jouer, byncodes, jeu, jeux allopass, rémunérés, gains, lots">
+<meta name="Language" content="fr">
+<meta name="ROBOTS" content="all,index,follow">
+<meta name="identifier-url" content="http://www.lipala.com">
+<meta name="reply-to" content="contact@lipala.com">
+<meta name="revisit-after" content="15 days">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+<link rel="shortcut icon" href="16x16.ico">
+<style type="text/css">
+* {margin:0;padding:0;}
+html,body {height:100%;}
+#iframe_visit {width:100%;height:100%;border:none;}
+#top
+{
+height:95px ;
+width:100%;
+background-color:#fffbd9;
+padding-top: 5px ;
+}
+</style>
+
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+<div id="top" align="center">
+
+<table width="100%">
+<tbody><tr>
+<td align="center" valign="top" width="100%">
+
+<div id="Counter">Merci de répondre à cette question pour que vos points soient comptabilisés<br>1 + 5 = ? <br> Résultat : <a href="?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&amp;resultat=98" target="_parent">49</a> - <a href="?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&amp;resultat=6" target="_parent">6</a> - <a href="?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&amp;resultat=31" target="_parent">90</a> - <a href="?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&amp;resultat=36" target="_parent">21</a></div><div id="Clicks"></div>
+</td>
+<td align="center" valign="top"><iframe src="/pub/72890h1clicin.php" marginwidth="0" marginheight="0" frameborder="0" align="top" height="90" scrolling="no" width="728"></iframe> <br>
+
+<!----Veoxa slide in---->
+<script type="text/javascript" charset="UTF-8" src="http://tracking.veoxa.com/impression/rotator/js?id=31&amp;jid=38313"></script>
+<!----Fin Veoxa slide in----><br>
+
+<!-- régie publicitaire ad6média -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var ad6_url = 'http://7ke0nq473i.s.ad6media.fr/?d='+((new Date()).getTime())+'&r='; try { ad6_url+=escape(top.document.referrer); } catch (e) {ad6_url+=escape(document.referrer);} document.write('<scr'+'ipt typ'+'e="text/javas'+'cript" src="'+ad6_url+'"></scr'+'ipt>');
+/* ]]> */
+</script><script type="text/javascript" src="http://7ke0nq473i.s.ad6media.fr/?d=1358515790790&amp;r="></script>
+<!-- régie publicitaire ad6média -->
+                                    
+
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<script type="text/javascript">
+	var Seconds_Counter = "5" ; // indiquez la durée du compte à rebours en secondes
+	var URL_Redirection_Counter = "index.html"; // indiquez le chemin du lien vers lequel le texte doit pointer
+	var Text_Redirection_Counter = "Merci de répondre à cette question pour que vos points soient comptabilisés<br/>1 + 5 = ? <br /> Résultat : <a href='?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&resultat=98' target='_parent'>49</a> - <a href='?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&resultat=6' target='_parent'>6</a> - <a href='?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&resultat=31' target='_parent'>90</a> - <a href='?id_ban=db9a3a52b7c11262982e4c7ff0a84a3b&resultat=36' target='_parent'>21</a>"; // indiquez le texte du lien
+	var Target_Redirection_Counter = "_top"; // indiquez le type de target : "_blank", "_parent", "_self" ou "_top"
+
+	//les autres variables n'ont pas a etre modifiées//
+
+	var Target_Counter = document.getElementById('Counter');
+	var Target_Time_Counter = new Date();
+	var Time_Beginn_Counter = Target_Time_Counter.getTime();
+	var Time_End_Counter = Time_Beginn_Counter + (Seconds_Counter*1000);
+	Target_Time_Counter.setTime(Time_End_Counter);
+
+	var ClicsOK=0;
+
+	document.compteur.init.value = parent.history.length*1;
+	document.compteur.nbClick.value = 0;
+
+	CountDown_Counter();
+
+	function CountDown_Counter()
+	{
+		if (ClicsOK==0)
+		{
+			document.compteur.lastclick.value=document.compteur.nbClick.value*1+document.compteur.init.value*1;
+
+			if (document.compteur.lastclick.value*1!=parent.history.length*1)
+			{
+				document.compteur.nbClick.value=document.compteur.nbClick.value*1 + 1;
+				document.compteur.nbClickaff.value=document.compteur.nbClick.value;
+				document.getElementById('nbc').innerHTML=document.compteur.nbClick.value;
+			}
+
+			if (document.compteur.nbClick.value>=document.compteur.nbPage.value)
+			{
+				document.getElementById('Clicks').innerHTML="";
+
+				Target_Counter=document.getElementById('Counter');
+				Target_Time_Counter=new Date();
+				Time_Beginn_Counter=Target_Time_Counter.getTime();
+				Time_End_Counter=Time_Beginn_Counter + (Seconds_Counter*1000);
+				Target_Time_Counter.setTime(Time_End_Counter);
+
+				ClicsOK=1;
+			}
+			else window.setTimeout("CountDown_Counter()",100);
+		}
+
+		if (ClicsOK==1)
+		{
+			var Current_Date_Counter = new Date();
+			var Curren_tTime_Counter = Current_Date_Counter.getTime()
+			var Open_Time_Counter = Math.floor((Target_Time_Counter-Curren_tTime_Counter)/1000);
+
+			if (Open_Time_Counter<0)
+			Open_Time_Counter=0;
+
+			var s_Counter = Open_Time_Counter % 60;
+			var m_Counter = ((Open_Time_Counter-s_Counter)/60) % 60;
+			var h_Counter = ((Open_Time_Counter-s_Counter-m_Counter*60)/(60*60));
+			var fh_Counter  = ((h_Counter < 10) ? "0" : "") + h_Counter + "h ";
+			var fm_Counter  = ((m_Counter < 10) ? "0" : "") + m_Counter + "min ";
+			var fs_Counter  = "Merci de patienter " + ((s_Counter < 10) ? "0" : "") + s_Counter + "  secondes afin que vos points soient comptabilisés.";
+
+			var Time_Counter = fs_Counter;
+			var Output_String_Counter=Time_Counter;
+
+			if (Open_Time_Counter<=0)
+			{
+				Target_Counter.innerHTML=  Text_Redirection_Counter;
+			}
+			else
+			{
+				Target_Counter.innerHTML= Output_String_Counter;
+				window.setTimeout("CountDown_Counter()",100);
+			}
+		}
+	}
+</script>
+<iframe id="iframe_visit" name="main" src="http://www.2001jeux.com" border="0" height="100%" scrolling="auto" width="100%"> </iframe>
+
+
+</body></html>
+TEST
+TEST: Merci de répondre à cette question pour que vos points soient comptabilisés1 + 5 = ?  Résultat : 49 - 6 - 90 - 21
+../jeuxcmul.php?id_ban=ec5745f5aff71998acd33e48b4e9a786
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Lipala - Des cadeaux à gogo !</title>
+<meta name="description" content="Lipala pour gagner des cadeaux et de argents sur internet.Découvrez des centaines de jeux gratuit , jeux flash , jeux d'élévages , instant gagnant , jeux simulation...">
+<meta name="Keywords" content="cadeaux, gratuit, jeu gratuit, codes, jeux gratuits, cadeau, instant, internet rémunérés, gagner cadeaux ,mails rémunérés, jeu d'argent, gagner codes, jeux en ligne, facile, jeux de réflexion, divertissements, jeux online, astuces, jeux sur internet, site de jeux, prizee, jouer, byncodes, jeu, jeux allopass, rémunérés, gains, lots">
+<meta name="Language" content="fr">
+<meta name="ROBOTS" content="all,index,follow">
+<meta name="identifier-url" content="http://www.lipala.com">
+<meta name="reply-to" content="contact@lipala.com">
+<meta name="revisit-after" content="15 days">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+<link rel="shortcut icon" href="16x16.ico">
+<style type="text/css">
+* {margin:0;padding:0;}
+html,body {height:100%;}
+#iframe_visit {width:100%;height:100%;border:none;}
+#top
+{
+height:95px ;
+width:1I, MOZREPL : Client closed connection : 127.0.0.1:56373
+I, MOZREPL : Closing.
+NOTE: child process received `Goodbye', closing down

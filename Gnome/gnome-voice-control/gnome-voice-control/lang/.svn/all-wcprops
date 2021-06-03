@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/festlang/!svn/ver/191/trunk/gnome-voice-control/lang
+END
+desktop-control-de.dict
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/festlang/!svn/ver/185/trunk/gnome-voice-control/lang/desktop-control-de.dict
+END
+desktop-control.fsg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/festlang/!svn/ver/132/trunk/gnome-voice-control/lang/desktop-control.fsg
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/festlang/!svn/ver/191/trunk/gnome-voice-control/lang/Makefile.am
+END
+desktop-control-en.dict
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/festlang/!svn/ver/182/trunk/gnome-voice-control/lang/desktop-control-en.dict
+END
+desktop-control-ru.dict
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/festlang/!svn/ver/183/trunk/gnome-voice-control/lang/desktop-control-ru.dict
+END
+desktop-control-es.dict
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/festlang/!svn/ver/191/trunk/gnome-voice-control/lang/desktop-control-es.dict
+END

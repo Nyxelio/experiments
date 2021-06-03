@@ -1,0 +1,11 @@
+Dans le fichier inclus à partir de dbusHal.c:3:
+/usr/include/dbus-1.0/dbus/dbus-glib.h:28:30: erreur: dbus/dbus-shared.h : Aucun fichier ou répertoire de ce type
+In file included from dbusHal.c:3:
+/usr/include/dbus-1.0/dbus/dbus-glib.h:74: erreur: expected «)" before «type"
+/usr/include/dbus-1.0/dbus/dbus-glib.h:137:41: erreur: dbus/dbus-gtype-specialized.h : Aucun fichier ou répertoire de ce type
+dbusHal.c: In function «main":
+dbusHal.c:24: erreur: «DBUS_BUS_SESSION" undeclared (first use in this function)
+dbusHal.c:24: erreur: (Each undeclared identifier is reported only once
+dbusHal.c:24: erreur: for each function it appears in.)
+dbusHal.c:25: attention : assignment makes pointer from integer without a cast
+dbusHal.c:74: erreur: expected declaration or statement at end of input

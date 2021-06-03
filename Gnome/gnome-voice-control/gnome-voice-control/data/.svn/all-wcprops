@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/festlang/!svn/ver/203/trunk/gnome-voice-control/data
+END
+GNOME_VoiceControlApplet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/festlang/!svn/ver/150/trunk/gnome-voice-control/data/GNOME_VoiceControlApplet.xml
+END
+GNOME_VoiceControlApplet_Factory.server.in.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/repos/festlang/!svn/ver/50/trunk/gnome-voice-control/data/GNOME_VoiceControlApplet_Factory.server.in.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/festlang/!svn/ver/203/trunk/gnome-voice-control/data/Makefile.am
+END

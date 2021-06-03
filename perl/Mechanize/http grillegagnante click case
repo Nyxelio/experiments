@@ -1,0 +1,162 @@
+http://www.grillegagnante.com/gg_clic.php?id_gg=221&id_case=9
+
+GET /gg_clic.php?id_gg=221&id_case=9 HTTP/1.1
+Host: www.grillegagnante.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.grillegagnante.com/grille_gagnante.php
+Cookie: _cshn=1320%3A1%2C1300%3A1%2C1394%3A1%2C1410%3A1%2C1294%3A1%2C1402%3A1; PHPSESSID=dc75f40da6d7ab5e7f7d381c3d497351; classement_time=1357916307; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Fri, 11 Jan 2013 15:13:00 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 73
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+----------------------------------------------------------
+http://www.grillegagnante.com/infos_membre_jetons.php
+
+GET /infos_membre_jetons.php HTTP/1.1
+Host: www.grillegagnante.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.grillegagnante.com/grille_gagnante.php
+Cookie: _cshn=1320%3A1%2C1300%3A1%2C1394%3A1%2C1410%3A1%2C1294%3A1%2C1402%3A1; PHPSESSID=dc75f40da6d7ab5e7f7d381c3d497351; classement_time=1357916307; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Fri, 11 Jan 2013 15:13:00 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 35
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.grillegagnante.com/infos_membre_euros.php
+
+GET /infos_membre_euros.php HTTP/1.1
+Host: www.grillegagnante.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.grillegagnante.com/grille_gagnante.php
+Cookie: _cshn=1320%3A1%2C1300%3A1%2C1394%3A1%2C1410%3A1%2C1294%3A1%2C1402%3A1; PHPSESSID=dc75f40da6d7ab5e7f7d381c3d497351; classement_time=1357916307; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Fri, 11 Jan 2013 15:13:00 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 31
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.grillegagnante.com/gg_grille.php
+
+GET /gg_grille.php HTTP/1.1
+Host: www.grillegagnante.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.grillegagnante.com/grille_gagnante.php
+Cookie: _cshn=1320%3A1%2C1300%3A1%2C1394%3A1%2C1410%3A1%2C1294%3A1%2C1402%3A1; PHPSESSID=dc75f40da6d7ab5e7f7d381c3d497351; classement_time=1357916307; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Fri, 11 Jan 2013 15:13:00 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 795
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+----------------------------------------------------------
+http://www.grillegagnante.com/gg_grille.php
+
+GET /gg_grille.php HTTP/1.1
+Host: www.grillegagnante.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.grillegagnante.com/grille_gagnante.php
+Cookie: _cshn=1320%3A1%2C1300%3A1%2C1394%3A1%2C1410%3A1%2C1294%3A1%2C1402%3A1; PHPSESSID=dc75f40da6d7ab5e7f7d381c3d497351; classement_time=1357916307; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Fri, 11 Jan 2013 15:13:07 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 795
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+----------------------------------------------------------
+http://www.grillegagnante.com/gg_grille.php
+
+GET /gg_grille.php HTTP/1.1
+Host: www.grillegagnante.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.grillegagnante.com/grille_gagnante.php
+Cookie: _cshn=1320%3A1%2C1300%3A1%2C1394%3A1%2C1410%3A1%2C1294%3A1%2C1402%3A1; PHPSESSID=dc75f40da6d7ab5e7f7d381c3d497351; classement_time=1357916307; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Fri, 11 Jan 2013 15:13:30 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 826
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+----------------------------------------------------------

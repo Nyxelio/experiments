@@ -1,0 +1,46 @@
+2008-05-07  Mauricio Henriquez  <mhenriquezs@terra.cl>
+
+	* es.po: Added Spanish translation.
+
+2008-05-02  Martin Weinelt <mweinelt@gmail.com>
+	
+	* de.po: Updated German translation.
+
+2008-05-01  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* LINGUAS:
+	* de.po: Added German translation with German commands.
+
+2008-05-01  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* ru.po: Updated Russian translation.
+
+2008-02-23  Dino Michelon <superdinoz@yahoo.it> 
+
+	* it.po: Added Italian translation.
+
+2007-12-08  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* LINGUAS:
+	* pt_BR.po:
+	
+	Added Brasilian translation.
+
+2007-09-15   Olivier Blanc <olivier.blanc@laposte.net>
+
+	* LINGUAS:
+	* fr.po: Added French translation
+
+2007-06-07  Raphael Nunes da Motta  <raphael.nmunes.enc04@gmail.com>
+
+	* sv.po: Updated Swedish translation
+
+2007-06-06  Raphael Nunes da Motta  <raphael.nunes.enc04@gmail.com>
+
+	* POTFILES.skip:
+
+        Created and data/GNOME_VoiceControlApplet_Factory.server.in added
+
+2006-06-06  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* ru.po: Updated Russian translation.

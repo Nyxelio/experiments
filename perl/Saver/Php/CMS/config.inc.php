@@ -1,0 +1,3 @@
+<?php
+$nbreNewsAAfficher = 5;
+?>

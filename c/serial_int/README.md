@@ -1,1 +1,0 @@
-Connect to serial port and relies on system signals to handle actions.

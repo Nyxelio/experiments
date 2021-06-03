@@ -1,0 +1,199 @@
+#!/usr/bin/env python
+from Tkinter import *
+
+
+ma_fenetre = Tk()
+ma_fenetre.title("Calculatrice")
+
+mon_cadre = Frame(ma_fenetre)
+mon_cadre.pack()
+Label(mon_cadre,text='Resultat').grid(row=0,column=0)
+mon_entree = Entry(mon_cadre,bg='white')
+mon_entree.grid(row=0,column=1)
+
+cadre_buttons=Frame(ma_fenetre,padx=10,pady=5)
+cadre_buttons.pack()
+
+def adda():
+	CARACTERE='+'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+	
+def adds():
+	CARACTERE='-'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def addm():
+	CARACTERE='*'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def addq():
+	CARACTERE='/'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add0():
+	CARACTERE='0'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add1():
+	CARACTERE='1'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add2():
+	CARACTERE='2'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add3():
+	CARACTERE='3'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add4():
+	CARACTERE='4'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add5():
+	CARACTERE='5'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add6():
+	CARACTERE='6'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add7():
+	CARACTERE='7'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add8():
+	CARACTERE='8'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+def add9():
+	CARACTERE='9'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+
+def Exec():
+	global mon_entree
+	calcul=mon_entree.get()
+	result=eval(calcul)
+	mon_entree.delete(0,len(calcul))
+	mon_entree.insert(0,result)
+
+def CE():
+	global mon_entree
+	mon_entree.delete(0,len(mon_entree.get()))
+	
+def addpoint():
+	CARACTERE='.'
+	global mon_entree
+	valeur_actuelle = mon_entree.get()
+	nouvelle_valeur = valeur_actuelle + CARACTERE
+
+	mon_entree.delete(0,len(valeur_actuelle))
+	mon_entree.insert(mon_entree.index(0),nouvelle_valeur)
+
+#ligne 0 de la calculatrice
+
+Button(cadre_buttons,text='+',fg="blue",height=1,width=1,command=adda).grid(row=0,column=0)
+Button(cadre_buttons,text='-',fg="blue",height=1,width=1,command=adds).grid(row=0,column=1)
+Button(cadre_buttons,text='*',fg="blue",height=1,width=1,command=addm).grid(row=0,column=2)
+Button(cadre_buttons,text='/',fg="blue",height=1,width=1,command=addq).grid(row=0,column=3)
+
+#ligne 1 de la calculatrice
+
+Button(cadre_buttons,text='7',height=1,width=1,command=add7).grid(row=1,column=0)
+Button(cadre_buttons,text='8',height=1,width=1,command=add8).grid(row=1,column=1)
+Button(cadre_buttons,text='9',height=1,width=1,command=add9).grid(row=1,column=2)
+Button(cadre_buttons,text='=',fg="blue",height=5,width=1,command=Exec).grid(row=1,column=3,rowspan=3)
+
+#ligne 2 de la calculatrice
+
+Button(cadre_buttons,text='4',height=1,width=1,command=add4).grid(row=2,column=0)
+Button(cadre_buttons,text='5',height=1,width=1,command=add5).grid(row=2,column=1)
+Button(cadre_buttons,text='6',height=1,width=1,command=add6).grid(row=2,column=2)
+
+#ligne 3 de la calculatrice
+
+Button(cadre_buttons,text='1',height=1,width=1,command=add1).grid(row=3,column=0)
+Button(cadre_buttons,text='2',height=1,width=1,command=add2).grid(row=3,column=1)
+Button(cadre_buttons,text='3',height=1,width=1,command=add3).grid(row=3,column=2)
+
+#ligne 4 de la calculatrice
+
+Button(cadre_buttons,text='0',height=1,width=1,command=add0).grid(row=4,column=0)
+Button(cadre_buttons,text='CE',height=1,width=1,command=CE).grid(row=4,column=2)
+Button(cadre_buttons,text='OFF',fg="red",height=1,width=1,command=ma_fenetre.quit).grid(row=4,column=3)
+Button(cadre_buttons,text=',',height=1,width=1,command=addpoint).grid(row=4,column=1)
+
+Label(cadre_buttons,text='crée par Nightmare').grid(row=5,column=0,columnspan=4)
+
+ma_fenetre.mainloop()

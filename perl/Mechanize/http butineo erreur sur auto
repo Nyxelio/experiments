@@ -1,0 +1,63 @@
+http://butineo.fr/logon/popin
+
+GET /logon/popin HTTP/1.1
+Host: butineo.fr
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://butineo.fr/
+X-Requested-With: XMLHttpRequest
+Cookie: __utma=55349688.1236812438.1356292980.1359228978.1359314232.4; __utmz=55349688.1356292980.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); VisitId=355704893; __utmb=55349688.10.10.1359314232; Marvin_SessionId=azwsmm10ubo5i4af5kq1xjaw; __utmc=55349688
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Set-Cookie: __RequestVerificationToken_Lw__=gzDJ84YvxWvRfHr7lZ4GJJCwJXFVq1loR52fuvFx//M/RQlLUQirz+lStjxsAg4GiKlMffNDG0/nohgQN2+Cv2OXvGTlLTT8OZnFdgORNtw+Of2VhpDXcPuuxmpIOHazC0iiQTgb+bGHi/9gyWpzf2eJ5WI=; path=/; HttpOnly
+Date: Sun, 27 Jan 2013 19:37:34 GMT
+Content-Length: 1986
+----------------------------------------------------------
+http://butineo.fr/logon/logonviapopin
+
+POST /logon/logonviapopin HTTP/1.1
+Host: butineo.fr
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://butineo.fr/
+Cookie: __utma=55349688.1236812438.1356292980.1359228978.1359314232.4; __utmz=55349688.1356292980.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); VisitId=355704893; __utmb=55349688.10.10.1359314232; Marvin_SessionId=azwsmm10ubo5i4af5kq1xjaw; __utmc=55349688; __RequestVerificationToken_Lw__=gzDJ84YvxWvRfHr7lZ4GJJCwJXFVq1loR52fuvFx//M/RQlLUQirz+lStjxsAg4GiKlMffNDG0/nohgQN2+Cv2OXvGTlLTT8OZnFdgORNtw+Of2VhpDXcPuuxmpIOHazC0iiQTgb+bGHi/9gyWpzf2eJ5WI=
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 287
+__RequestVerificationToken=E8xxbKCEQ0lrxpgQFG4gAZK%2BbvMPYSHwK3p4hVB0zWqQq%2FNQks6kbc%2FFNsha0iN6GeP5N2sy84%2BU%2B54g%2BlTB79yOrtKRVL6Jx9WTMkqKeEjotARbYqOG%2FbQMzjYkXIrllR%2FaioQIihuCRPq3JR7kck%2BpfeelAaiNM%2FtiVb7ntgYlPZUK&Email=datenshi33%40gmail.com&Password=k3stnWM7&RememberMe=false
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Location: /erreur/page-inexistante?aspxerrorpath=/logon/logonviapopin
+Date: Sun, 27 Jan 2013 19:37:36 GMT
+Content-Length: 176
+----------------------------------------------------------
+http://butineo.fr/erreur/page-inexistante?aspxerrorpath=/logon/logonviapopin
+
+GET /erreur/page-inexistante?aspxerrorpath=/logon/logonviapopin HTTP/1.1
+Host: butineo.fr
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://butineo.fr/
+Cookie: __utma=55349688.1236812438.1356292980.1359228978.1359314232.4; __utmz=55349688.1356292980.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); VisitId=355704893; __utmb=55349688.10.10.1359314232; Marvin_SessionId=azwsmm10ubo5i4af5kq1xjaw; __utmc=55349688; __RequestVerificationToken_Lw__=gzDJ84YvxWvRfHr7lZ4GJJCwJXFVq1loR52fuvFx//M/RQlLUQirz+lStjxsAg4GiKlMffNDG0/nohgQN2+Cv2OXvGTlLTT8OZnFdgORNtw+Of2VhpDXcPuuxmpIOHazC0iiQTgb+bGHi/9gyWpzf2eJ5WI=
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Sun, 27 Jan 2013 19:37:36 GMT
+Content-Length: 749
+----------------------------------------------------------

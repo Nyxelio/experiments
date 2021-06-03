@@ -1,0 +1,22 @@
+## Process this file with automake to produce Makefile.in
+
+## Created by Anjuta
+
+INCLUDES = \
+	-DPACKAGE_LOCALE_DIR=\""$(prefix)/$(DATADIRNAME)/locale"\" \
+	-DPACKAGE_SRC_DIR=\""$(srcdir)"\" \
+	-DPACKAGE_DATA_DIR=\""$(datadir)"\"
+
+AM_CFLAGS =\
+	 -Wall\
+	 -g
+
+bin_PROGRAMS = sdl-arkanoid
+
+sdl_arkanoid_SOURCES = \
+	main.c        
+
+sdl_arkanoid_LDFLAGS = 
+
+sdl_arkanoid_LDADD = 
+

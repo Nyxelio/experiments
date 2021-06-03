@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/festlang/!svn/ver/150/trunk/gnome-voice-control/help
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/festlang/!svn/ver/150/trunk/gnome-voice-control/help/ChangeLog
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/festlang/!svn/ver/70/trunk/gnome-voice-control/help/Makefile.am
+END
+gnome-voice-control.omf.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/festlang/!svn/ver/70/trunk/gnome-voice-control/help/gnome-voice-control.omf.in
+END
+omf.make
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/festlang/!svn/ver/70/trunk/gnome-voice-control/help/omf.make
+END

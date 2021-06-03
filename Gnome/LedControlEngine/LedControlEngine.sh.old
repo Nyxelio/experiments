@@ -1,0 +1,63 @@
+#!/bin/bash
+
+#------------------------------------------------------------------------------
+#
+# Autheur: Datenshi
+#
+# Description: Script permettant le contrôle des leds clavier pour une notification ou une alarme. Il gère le clignotement ou l'allumage temporaire des différentes leds, ScrollLed, CapslockLed ou NumlockLed en théorie. Seulement, mon matériel ne permettant pas d'utiliser Capslockled ou NumlockLed, la seule led testée (celle par défaut) est ScrollLed.
+# 
+# Année: 2008
+#
+# Contact: n.procureur@free.fr
+#
+#------------------------------------------------------------------------------
+
+#La led à contrôler. Ce numéro change suivant la configuration matérielle sur laquelle se rapporte ce script, mais en général les valeurs sont 1, 2 ou 3 pour le contrôle des 3 leds principales, bien que cette valeur peut atteindre 32 (man xset):
+ledAControler=3 ;
+
+#Le nombre de clignotements, mettre 1 pour un allumage sans clignotement:
+nbreClignotements=3 ;
+
+#Durée de maintien des deux états:
+dureeLedAllumee=0.3s ;
+dureeLedEteinte=0.3s ;
+
+#Nombre de répétitions de la séquence, mettre 1 pour une séquence sans répétition:
+nbreSequences=2;
+
+#Durée entre chaque séquence:
+dureeEntreSequence=0.5s ;
+
+if [ $# -ne 0 ]
+then
+	if [ $1 == "-h" ]
+	then
+		echo -e "Usage: $0 [nbreCli nbreRep]\n\n\
+		         nbreCli: Nombre de Clignotements\n\
+		         nbreRep: Nombre de Répétitions de la séquence\n\n\
+         Script permettant le contrôle des leds claviers pour une notification ou une alarme. Il gère le clignotement ou l'allumage temporaire des différentes leds." ;
+		
+		exit 0;
+	else	
+
+		nbreClignotements=$1;
+		nbreSequences=$2;
+
+	fi
+fi
+
+for i in `seq 1 $nbreSequences` ;
+do
+	for j in `seq 1 $nbreClignotements` ;
+	do
+		xset led $ledAControler ;
+		sleep $dureeLedAllumee ;
+		xset -led $ledAControler ;
+		sleep $dureeLedEteinte ;
+	done
+	
+	sleep $dureeEntreSequence ;
+done
+
+#Sortie du script, remet la led dans un état connu du système:
+xset -led ;

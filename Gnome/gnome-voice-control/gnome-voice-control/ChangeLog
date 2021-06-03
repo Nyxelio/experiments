@@ -1,0 +1,502 @@
+2008-08-06  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.h:
+	
+	Obsolete include removed.
+
+2008-08-01  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* data/Makefile.am:
+	
+	Use $(libexecdir) to fix bug #545742.
+
+2008-07-31  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	
+	Include AM_MAINTAINER_MODE to fix bug #547735.
+
+2008-05-27  Andrés Estévez Costas  <aecostas@gmail.com>
+
+	* README:
+	* src/action.c (do_action), (voice_control_action_process_result):
+	
+	Fixes bug with mouse direction, updated README and fixes
+	action order comparision.
+
+2008-05-23  Andrés Estévez Costas  <aecostas@gmail.com>
+
+	* src/action.c (do_action): Check gconf for
+	default terminal and browser.
+
+2008-05-08  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* lang/Makefile.am:
+	* lang/desktop-control-es.dict:
+
+	Added spanish dictionary by Mauricio Henriquez <mhenriquezs@terra.cl>.
+
+2008-05-06  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.c (gst_sphinx_get_command):
+	Check mdef file before selecting acoustic model. Thanks to
+	Mauricio Henriquez <mhenriquezs@terra.cl>.
+
+2008-05-01  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* lang/Makefile.am:
+	* lang/desktop-control-de.dict:
+	
+	Added support for German
+
+2008-05-01  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* lang/desktop-control-ru.dict: 
+	
+	Fixes for handling Russian.
+
+	* src/action.c (voice_control_action_append_commands):
+	* src/gstsphinxsink.c (gst_sphinx_decoder_init),
+	(gst_sphinx_sink_process_chunk), (gst_sphinx_construct_fsg):
+	* src/gstsphinxsink.h: 
+	
+	Bumped pocketsphinx requirement and updated to new API.
+
+2008-01-16  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_render):
+	* src/voice-control.c: (control_stop), (on_sink_initialization),
+	(on_sink_calibration), (on_sink_listening), (on_sink_ready),
+	(setup_voice_control_widget):
+	
+	Add configure option --enable-debug to dump raw audio.
+
+2007-12-08  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* data/GNOME_VoiceControlApplet.xml:
+	* lang/desktop-control.dict:
+	* src/Makefile.am:
+	* src/action.c: (do_action):
+	* src/spi-listener.c: (control_spi_set_voice_control_pipeline),
+	(control_spi_listener_keys_listener_cb),
+	(control_spi_listener_init), (control_spi_listener_start),
+	(control_spi_listener_stop):
+	* src/spi-listener.h:
+	* src/voice-control.c: (keypress_control_start), (control_stop),
+	(on_sink_initialization), (on_sink_calibration),
+	(on_sink_listening), (on_sink_ready), (display_about_dialog),
+	(setup_voice_control_widget), (main):
+	
+	Patch for keypress and documentation from Raphael.
+
+2007-10-23  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	* NEWS:
+	
+	Update for release 0.3.
+
+2007-08-18  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	
+	Raise requirement to pocketsphinx-0.4
+
+2007-08-14  David Huggins-Daines <dhuggins@cs.cmu.edu>
+
+	* src/gstsphinxsink.c:
+	
+	Require new wsj1 model.
+
+2007-08-10  Marius Andreiana <marius.andreiana@gmail.com>
+
+	* lang/desktop-control.dict:
+	* src/action.c: (do_action):
+	
+	Keyboard actions implemented
+
+2007-08-08  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/action.c:
+	
+	Added a list of unimplemented actions.
+
+2007-08-07  Marius Andreiana <marius.andreiana@gmail.com>
+
+	* src/action.c: (do_action), (voice_control_action_process_result):
+	* src/voice-control.c:
+	
+	New actions implemented: clicks and main menu invocation.
+
+2007-08-04  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* lang/desktop-control.dict:
+	* lang/desktop-control.fsg:
+	
+	Updated dictionary, thanks to David Huggins-Daines for the notice.
+	
+	* src/action.c: (do_action),
+	(voice_control_action_append_commands),
+	(voice_control_action_process_result):
+	* src/action.h:
+	* src/gstsphinxsink.c: (gst_sphinx_decoder_init),
+	(gst_sphinx_sink_class_init), (gst_sphinx_sink_render),
+	(gst_sphinx_sink_set_fsg):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (control_start),
+	(on_sink_after_initialization), (on_sink_message),
+	(voice_control_ui_changed), (voice_control_applet_create_pipeline):
+	
+	Reworked action handling.
+
+2007-08-02  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/action.c:
+	* src/action.h:
+	* src/gstsphinxsink.c:
+	* src/gstsphinxsink.h:
+	* src/spi-listener.c:
+	* src/spi-listener.h:
+	* src/voice-control.c:
+	
+	Updated license information. Thanks to Saša Bodiroža <jazzva@gmail.com>
+
+2007-07-21  David Huggins-Daines <dhuggins@cs.cmu.edu>
+
+	* README:
+	* configure.ac:
+	* src/voice-control.c: (on_sink_listening), (process_action),
+	(show_notification), (on_sink_message),
+	(voice_control_applet_init), (main):
+	
+	libnotify support to show recognized text.
+
+2007-07-21  David Huggins-Daines <dhuggins@cs.cmu.edu>
+
+	* README:
+	* configure.ac:
+	* src/Makefile.am:
+	* src/gstsphinxsink.c:
+	* src/gstsphinxsink.h:
+	
+	Ported to pocketsphinx.
+
+2007-07-08  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* README:
+	
+	Updated the list of requirements. Thanks to 
+	Marius Andreiana <mandreiana.lists@gmail.com>
+
+2007-06-27  Raphael Nunes da Motta <raphael.nunes.enc04@gmail.com>
+
+	* lang/desktop-control.fsg:
+	* src/action.c: (do_action):
+	* src/action.h:
+	* src/voice-control.c: (on_sink_message),
+	(voice_control_ui_changed):
+
+        Added command RUN TEXT EDITOR
+
+2007-06-27  Raphael Nunes da Motta <raphael.nunes.enc04@gmail.com>
+
+	* NEWS:
+	* README:
+	* configure.ac:
+
+        Data updated to generate release 0.2.0
+
+2007-06-24  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.c: (gst_sphinx_sink_finalize),
+	(gst_sphinx_sink_class_init), (gst_sphinx_sink_init),
+	(gst_sphinx_sink_ad_read), (gst_sphinx_sink_calibrate_chunk),
+	(gst_sphinx_sink_process_chunk), (gst_sphinx_sink_render):
+	* src/gstsphinxsink.h:
+	
+	Pass fixed-size buffers to sphinx through GstAdapter. This
+	should solve the problem with locking on calibration. Thanks
+	a lot to Sander <avirulence@gmail.com>.
+
+2007-06-21  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.c: (gst_sphinx_sink_set_fsg):
+	* src/spi-listener.c: (control_spi_listener_dump_actions_list),
+	(control_spi_listener_build_actions_list):
+	
+	Ifdefs for DEBUG output
+
+2007-06-21  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/spi-listener.c: (is_worth_searching),
+	(control_spi_listener_build_actions_list),
+	(control_spi_listener_process_event),
+	(control_spi_listener_window_listener_cb),
+	(control_spi_listener_showing_listener_cb),
+	(control_spi_listener_stop):
+	* src/spi-listener.h:
+	* src/voice-control.c: (voice_control_applet_init):
+	
+	Speedup ally introspection drastically.
+
+2007-06-21  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/spi-listener.c: (control_spi_listener_build_actions_list):
+	
+	Fixes crash if accessible name is zero (yes, it happens sometimes).
+
+2007-06-20  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/voice-control.c: (control_stop), (on_sink_initialization),
+	(on_sink_calibration), (on_sink_listening), (on_sink_ready),
+	(voice_control_set_text), (setup_voice_control_widget):
+	
+	Added sensible tooltips.
+
+2007-06-20  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.c: (gst_sphinx_decoder_init):
+	* src/voice-control.c: (setup_voice_control_widget):
+	
+	Fixes localization issues.
+
+2007-06-20  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* lang/desktop-control.dict:
+	
+	Updated dictionary to allow full GEdit control.
+
+2007-06-14  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* README:
+	
+	Updated note about Debian packages. Thanks to
+	Dimitri Provoost.
+
+2007-06-12  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.c: (gst_sphinx_construct_trans_list):
+	* src/voice-control.c: (on_sink_message):
+	
+	Multiword commands are properly converted to FSG.
+
+2007-06-11  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* lang/desktop-control.dict:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_render),
+	(gst_sphinx_construct_trans_list), (gst_sphinx_sink_set_fsg):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (control_start), (process_action),
+	(on_sink_message):
+	
+	Ally actions work. You can just say 'Open' or 'Cancel' and
+	UI will listen to you.
+
+2007-06-10  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.c: (gst_sphinx_sink_class_init),
+	(gst_sphinx_sink_init), (gst_sphinx_sink_render),
+	(gst_sphinx_sink_set_fsg):
+	* src/gstsphinxsink.h:
+	* src/spi-listener.c: (control_spi_listener_process_event),
+	(control_spi_listener_init), (control_spi_listener_class_init),
+	(control_spi_listener_start), (control_spi_listener_stop),
+	(control_spi_listener_get_object_list):
+	* src/spi-listener.h:
+	* src/voice-control.c: (control_start), (control_stop),
+	(voice_control_ui_changed), (voice_control_applet_init):
+	
+	List of UI items is bypassed to sphinx fsg.
+
+2007-06-10  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/spi-listener.c: (is_actionable),
+	(control_spi_listener_normalize),
+	(control_spi_listener_build_actions_list),
+	(control_spi_listener_process_event),
+	(control_spi_listener_window_listener_cb):
+	
+	Normalized names
+
+2007-06-09  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	* src/Makefile.am:
+	* src/spi-listener.c: (control_spi_listener_free_actions_list),
+	(control_spi_listener_dump_actions_list), (is_visible),
+	(is_actionable), (control_spi_listener_build_actions_list),
+	(control_spi_listener_process_event),
+	(control_spi_listener_window_listener_cb),
+	(control_spi_listener_showing_listener_cb),
+	(control_spi_listener_init), (control_spi_listener_class_init):
+	* src/spi-listener.h:
+	* src/voice-control.c: (control_start), (main):
+	
+	Added accessibility listener.
+
+2007-06-07  Raphael Nunes da Motta  <raphael.nunes.enc04@gmail.com>
+
+	* README:
+	* configure.ac:
+	* src/gstsphinxsink.c:
+
+        Instalation problems solved and readme updated
+
+2007-06-06  Raphael Nunes da Motta  <raphael.nunes.enc04@gmail.com>
+
+	* README:
+
+        Updated README.
+
+2007-06-03  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* Makefile.am:
+	* lang/Makefile.am:
+	
+	Distcheck fixes
+
+2007-06-03  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/gstsphinxsink.c: (gst_sphinx_sink_class_init),
+	(gst_sphinx_sink_start), (gst_sphinx_sink_render):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (on_sink_initialization),
+	(voice_control_applet_create_pipeline), (main):
+	
+	Threading problems seems to be solved.
+
+2007-06-03  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	* lang/desktop-control.fsg:
+	* src/action.c: (do_action):
+	* src/action.h:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_base_init),
+	(gst_sphinx_sink_start), (gst_sphinx_sink_render):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (on_sink_calibration), (on_sink_listening),
+	(on_sink_ready), (on_sink_message), (voice_control_applet_init),
+	(main):
+	
+	Window actions through libwnck
+
+2007-06-03  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* lang/desktop-control.dict:
+	* lang/desktop-control.fsg:
+	* src/action.c: (do_action):
+	* src/action.h:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_render):
+	* src/voice-control.c: (on_sink_message),
+	(setup_voice_control_widget),
+	(voice_control_applet_create_pipeline), (main):
+	
+	Real command execution like terminal or browser.
+
+2007-06-03  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* Makefile.am:
+	* configure.ac:
+	* lang/Makefile.am:
+	* lang/desktop-control.dict:
+	* lang/desktop-control.fsg:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_class_init),
+	(gst_sphinx_sink_start), (gst_sphinx_sink_render):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (control_start), (control_stop),
+	(on_sink_calibration), (on_sink_listening), (on_sink_ready),
+	(set_tooltip), (setup_voice_control_widget),
+	(voice_control_applet_create_pipeline):
+
+2007-05-22  Raphael Nunes da Motta  <raphael@arthemis>
+
+	* configure.ac:
+	* src/action.c: (do_action):
+	* src/action.h:
+	* src/voice-control.c: (main):
+
+        Some actions over active windows implemented.
+
+2007-05-23  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/Makefile.am:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_ad_read),
+	(gst_sphinx_sink_start), (gst_sphinx_sink_stop),
+	(gst_sphinx_sink_render):
+	* src/gstsphinxsink.h:
+	
+	Continuous listening implemented, the only thing
+	is callbacks now.
+
+2007-05-23  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* src/Makefile.am:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_render):
+	
+	Links with correct library - fixes the crash on stop.
+
+2007-05-20  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	* src/Makefile.am:
+	* src/action.c: (do_action):
+	* src/action.h:
+	* src/gstsphinxsink.c: (gst_sphinx_decoder_init),
+	(gst_sphinx_sink_init_interfaces), (gst_sphinx_sink_base_init),
+	(gst_sphinx_sink_class_init), (gst_sphinx_sink_init),
+	(gst_sphinx_sink_set_property), (gst_sphinx_sink_get_property),
+	(gst_sphinx_sink_prepare), (gst_sphinx_sink_unprepare),
+	(gst_sphinx_sink_write):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (control_stop), (main):
+	
+	Audiosink is inherited now, data goes to decoder but
+	crashes it.
+
+2007-05-20  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	* src/Makefile.am:
+	* src/action.c: (do_action):
+	* src/action.h:
+	* src/gstsphinxsink.c: (gst_sphinx_decoder_init),
+	(gst_sphinx_sink_init_interfaces), (gst_sphinx_sink_base_init),
+	(gst_sphinx_sink_class_init), (gst_sphinx_sink_init),
+	(gst_sphinx_sink_set_property), (gst_sphinx_sink_get_property),
+	(gst_sphinx_sink_prepare), (gst_sphinx_sink_unprepare),
+	(gst_sphinx_sink_write):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (control_stop), (main):
+
+2007-05-20  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+
+	* configure.ac:
+	* data/GNOME_VoiceControlApplet.xml:
+	* data/GNOME_VoiceControlApplet_Factory.server.in.in:
+	* src/Makefile.am:
+	* src/action.c: (do_action):
+	* src/action.h:
+	* src/gstsphinxsink.c: (gst_sphinx_sink_state_error_get_type),
+	(gst_sphinx_sink_base_init), (gst_sphinx_sink_class_init),
+	(gst_sphinx_sink_init), (gst_sphinx_sink_set_property),
+	(gst_sphinx_sink_get_property), (gst_sphinx_sink_event),
+	(gst_sphinx_sink_preroll), (gst_sphinx_sink_render),
+	(gst_sphinx_sink_change_state):
+	* src/gstsphinxsink.h:
+	* src/voice-control.c: (control_start), (control_stop),
+	(display_about_dialog), (setup_voice_control_widget),
+	(voice_control_applet_destroy),
+	(voice_control_applet_create_pipeline),
+	(voice_control_applet_init), (plugin_init), (main):
+	
+	Added fake gstreamer sink to record audio.
+
+2007-04-15  Raphael Nunes da Motta  <raphael.nunes.enc04@gmail.com>
+
+	* AUTHORS: Added author Raphael Nunes da Motta
+
+2007-03-02  Nickolay V. Shmyrev  <nshmyrev@yandex.ru>
+    
+	project start
+

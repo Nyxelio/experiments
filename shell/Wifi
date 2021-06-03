@@ -1,0 +1,5 @@
+#!/bin/sh
+rmmod ssb
+rmmod ndiswrapper
+sleep 2s
+modprobe ndiswrapper

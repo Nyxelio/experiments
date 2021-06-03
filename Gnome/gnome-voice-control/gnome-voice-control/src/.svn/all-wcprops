@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/festlang/!svn/ver/209/trunk/gnome-voice-control/src
+END
+spi-listener.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/festlang/!svn/ver/150/trunk/gnome-voice-control/src/spi-listener.c
+END
+gstsphinxsink.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/festlang/!svn/ver/204/trunk/gnome-voice-control/src/gstsphinxsink.h
+END
+action.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/festlang/!svn/ver/132/trunk/gnome-voice-control/src/action.h
+END
+spi-listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/festlang/!svn/ver/150/trunk/gnome-voice-control/src/spi-listener.h
+END
+voice-control.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/festlang/!svn/ver/162/trunk/gnome-voice-control/src/voice-control.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/festlang/!svn/ver/150/trunk/gnome-voice-control/src/Makefile.am
+END
+gstsphinxsink.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/festlang/!svn/ver/209/trunk/gnome-voice-control/src/gstsphinxsink.c
+END
+action.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/festlang/!svn/ver/196/trunk/gnome-voice-control/src/action.c
+END

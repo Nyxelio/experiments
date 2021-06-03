@@ -1,0 +1,22 @@
+http://www.butineo.fr/logon/popin
+
+GET /logon/popin HTTP/1.1
+Host: www.butineo.fr
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.butineo.fr/
+Cookie: Marvin_SessionId=1yjba0xr0pua43nekzdio2ex; VisitId=354689573; __utma=55349688.1710304933.1355075910.1355075910.1355075910.1; __utmb=55349688.1.10.1355075910; __utmc=55349688; __utmz=55349688.1355075910.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Set-Cookie: __RequestVerificationToken_Lw__=pSY6OqCt9wBB6M+fIGVkkltC6L16clljhYO6xN1O2Pr5DpcS7R40kqNXZPxPFgGaiVBrw1Bqui8OBcvGKLcvZHcwUOg622XEayZS5XCEAJRPJIw0YW8QnL0SK7FNrXBjD4YusCbIt9hUJEbhaA9rVPqwBII=; path=/; HttpOnly
+Date: Sun, 09 Dec 2012 17:57:51 GMT
+Content-Length: 1979
+----------------------------------------------------------

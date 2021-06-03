@@ -1,0 +1,434 @@
+http://www.junglokdo.com/play_game.php?game=3
+
+GET /play_game.php?game=3 HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/jouer.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:22 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 8593
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.junglokdo.com/style_v2/images/titre_jeu_automatique.jpg
+
+GET /style_v2/images/titre_jeu_automatique.jpg HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:22 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Wed, 12 Dec 2012 00:01:50 GMT
+Etag: "2c0001-2fc0-4d09c8152b780"
+Accept-Ranges: bytes
+Content-Length: 12224
+Cache-Control: max-age=315360000
+Expires: Fri, 20 Jan 2023 19:57:22 GMT
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: image/jpeg
+----------------------------------------------------------
+http://www.junglokdo.com/img_divers/4.png
+
+GET /img_divers/4.png HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:22 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Tue, 11 Dec 2012 23:58:00 GMT
+Etag: "a80b8-e60-4d09c739d3200"
+Accept-Ranges: bytes
+Content-Length: 3680
+Cache-Control: max-age=315360000
+Expires: Fri, 20 Jan 2023 19:57:22 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+http://www.junglokdo.com/img_divers/2.png
+
+GET /img_divers/2.png HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:22 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Tue, 11 Dec 2012 23:58:00 GMT
+Etag: "a80b6-1276-4d09c739d3200"
+Accept-Ranges: bytes
+Content-Length: 4726
+Cache-Control: max-age=315360000
+Expires: Fri, 20 Jan 2023 19:57:22 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+http://www.junglokdo.com/img_divers/1b.png
+
+GET /img_divers/1b.png HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:22 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Tue, 11 Dec 2012 23:58:00 GMT
+Etag: "a80b5-1d4a-4d09c739d3200"
+Accept-Ranges: bytes
+Content-Length: 7498
+Cache-Control: max-age=315360000
+Expires: Fri, 20 Jan 2023 19:57:22 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+http://www.junglokdo.com/images/icone_supprimer.png
+
+GET /images/icone_supprimer.png HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:22 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Tue, 11 Dec 2012 23:56:43 GMT
+Etag: "a805b-2df-4d09c6f0644c0"
+Accept-Ranges: bytes
+Content-Length: 735
+Cache-Control: max-age=315360000
+Expires: Fri, 20 Jan 2023 19:57:22 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+http://www.junglokdo.com/pub/120600d1.php
+
+GET /pub/120600d1.php HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:22 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 226
+Keep-Alive: timeout=15, max=98
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.junglokdo.com/pub/adsbood2.php
+
+GET /pub/adsbood2.php HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:23 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 236
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://logv10.xiti.com/vcg.xiti?s=418367&p=page_d_accueil&hl=20x52x46&r=1440x900x24x24&ref=http://www.junglokdo.com/jouer.php?game=3
+
+GET /vcg.xiti?s=418367&p=page_d_accueil&hl=20x52x46&r=1440x900x24x24&ref=http://www.junglokdo.com/jouer.php?game=3 HTTP/1.1
+Host: logv10.xiti.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: idrxvr=D3E9FC8F-45E9-42B9-BA19-4D703AF0AB05
+
+HTTP/1.1 200 OK
+Content-Length: 836
+Content-Type: image/gif
+Last-Modified: Wed, 10 Oct 2007 07:04:19 GMT
+Accept-Ranges: bytes
+Etag: "60c84ac7bbc81:0"
+Server: Microsoft-IIS/7.5
+Date: Tue, 22 Jan 2013 19:51:50 GMT
+Connection: close
+----------------------------------------------------------
+http://www.junglokdo.com/frame_gagnants.php
+
+GET /frame_gagnants.php HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:23 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 844
+Keep-Alive: timeout=15, max=97
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.junglokdo.com/style_v2/images/bouton_double.png
+
+GET /style_v2/images/bouton_double.png HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:23 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Wed, 12 Dec 2012 00:01:16 GMT
+Etag: "a4350-52e6-4d09c7f4beb00"
+Accept-Ranges: bytes
+Content-Length: 21222
+Cache-Control: max-age=315360000
+Expires: Fri, 20 Jan 2023 19:57:23 GMT
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+----------------------------------------------------------
+http://www.facebook.com/plugins/like.php?app_id=228789517136718&href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FJunglokdocom%2F478233275267&send=false&layout=button_count&width=90&show_faces=true&action=like&colorscheme=light&font=arial&height=21
+
+GET /plugins/like.php?app_id=228789517136718&href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FJunglokdocom%2F478233275267&send=false&layout=button_count&width=90&show_faces=true&action=like&colorscheme=light&font=arial&height=21 HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+
+HTTP/1.1 200 OK
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: uS8Dj0GrShiQzeXYo/St60o9AEeAjvBzHzFsLW70xRA=
+Date: Tue, 22 Jan 2013 19:51:51 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+----------------------------------------------------------
+http://www.junglokdo.com/flash_game/473379-Girafo.swf?gain=45%20point(s)
+
+GET /flash_game/473379-Girafo.swf?gain=45%20point(s) HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:23 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Tue, 11 Dec 2012 23:53:35 GMT
+Etag: "a607f-502de-4d09c63d19dc0"
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-shockwave-flash
+----------------------------------------------------------
+http://www.junglokdo.com/pub/preroll30025001.php
+
+GET /pub/preroll30025001.php HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:23 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 199
+Keep-Alive: timeout=15, max=96
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.junglokdo.com/pub/46860clicjeux.php
+
+GET /pub/46860clicjeux.php HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:23 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 183
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.junglokdo.com/pub/72890h2.php
+
+GET /pub/72890h2.php HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:23 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 177
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.junglokdo.com/flash_game/473379-Girafo.swf?gain=45%20point(s)
+
+GET /flash_game/473379-Girafo.swf?gain=45%20point(s) HTTP/1.1
+Host: www.junglokdo.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+Cookie: classement_time=1358882407; PHPSESSID=c3d0a2390a391d58651222f056fa4080; regie_affichage=0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jan 2013 19:57:24 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+Last-Modified: Tue, 11 Dec 2012 23:53:35 GMT
+Etag: "a607f-502de-4d09c63d19dc0"
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Keep-Alive: timeout=15, max=95
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-shockwave-flash
+----------------------------------------------------------
+http://www.facebook.com/plugins/send.php?api_key=&locale=fr_FR&sdk=joey&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D18%23cb%3Df18e667d0560fb2%26origin%3Dhttp%253A%252F%252Fwww.junglokdo.com%252Ffad4ee8294251e%26domain%3Dwww.junglokdo.com%26relation%3Dparent.parent&font=arial&colorscheme=light&href=http%3A%2F%2Fwww.junglokdo.com&extended_social_context=false
+
+GET /plugins/send.php?api_key=&locale=fr_FR&sdk=joey&channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D18%23cb%3Df18e667d0560fb2%26origin%3Dhttp%253A%252F%252Fwww.junglokdo.com%252Ffad4ee8294251e%26domain%3Dwww.junglokdo.com%26relation%3Dparent.parent&font=arial&colorscheme=light&href=http%3A%2F%2Fwww.junglokdo.com&extended_social_context=false HTTP/1.1
+Host: www.facebook.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20100101 Firefox/10.0.12 Iceweasel/10.0.12
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.junglokdo.com/play_game.php?game=3
+
+HTTP/1.1 200 OK
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+X-FB-Debug: 2IL+/AIx+Pu8iA/pfaAbJgHbtEohLBzHkVNgGcndhOc=
+Date: Tue, 22 Jan 2013 19:51:52 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+----------------------------------------------------------

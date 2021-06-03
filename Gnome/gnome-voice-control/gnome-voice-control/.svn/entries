@@ -1,0 +1,152 @@
+8
+
+dir
+219
+http://svn.berlios.de/svnroot/repos/festlang/trunk/gnome-voice-control
+http://svn.berlios.de/svnroot/repos/festlang
+
+
+
+2008-08-16T21:09:16.498599Z
+209
+nsh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3ccbf08f-adf1-0310-975e-a3baaf75e68e
+
+lang
+dir
+
+configure.ac
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+cfd08c6cc881ad2864c5410ab2ebd745
+2008-07-31T19:59:16.003211Z
+202
+nsh
+
+AUTHORS
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+538cc6069e90d0f637c81c5695709de5
+2007-04-15T20:44:29.005496Z
+27
+raphaelnunes
+
+INSTALL
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+cf8c4d1a5ab88db006c47ae2b51a6b30
+2007-04-15T19:30:11.454252Z
+26
+nsh
+
+src
+dir
+
+ChangeLog
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+089cc96756214ddb5503762e2a3f2d2a
+2008-08-05T23:26:48.953969Z
+204
+nsh
+
+help
+dir
+
+COPYING
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+59530bdf33659b29e73d4adb9f9f6552
+2007-04-15T19:30:11.454252Z
+26
+nsh
+
+data
+dir
+
+Makefile.am
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+c75e5431e3830d3bb2371f64c6636198
+2007-06-03T15:45:22.101011Z
+74
+nsh
+
+autogen.sh
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+d4f9a5157a4ab4d9262d6a2d144ee6f7
+2007-04-15T19:30:11.454252Z
+26
+nsh
+has-props
+
+NEWS
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+772899f3790b9403c46b65f28f38727c
+2007-10-23T19:19:33.530412Z
+149
+nsh
+
+README
+file
+
+
+
+
+2008-09-11T16:57:07.000000Z
+2fbd9962147d390849b130f14733f739
+2008-05-27T17:50:30.102118Z
+196
+nsh
+
+po
+dir
+

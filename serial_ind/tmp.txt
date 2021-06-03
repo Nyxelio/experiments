@@ -1,0 +1,62 @@
+int err_flag=0;
+	char modemdevice[11];
+	int baudrate;
+
+switch(argc)
+	{
+		case 2:if (!strcmp(argv[1],"-h") || !strcmp(argv[1],"--help"))
+				{
+					printf("Usage: %s [-h|--help] [-p PORT|--port PORT] [-b VITESSE|--baudrate VITESSE]\n\n",argv[0]);
+					printf("-p, --port PORT\tutiliser le périphérique spécifié au lieu de /dev/ttyS0\n");
+					printf("-b, --baurate VITESSE\tutiliser la vitesse spécifiée au lieu de 38400\n");
+					printf("-h, --help\tafficher cet aide-mémoire\n");
+					err_flag = 1;
+				}
+				else
+				{
+					err_flag = 1;
+				}
+				break;
+				
+		case 3:if (!strcmp(argv[1],"-p") || !strcmp(argv[1],"--port"))
+				{
+					strcpy(modemdevice,argv[2]);
+					baudrate = BAUDRATE_DEFAUT;
+				}
+				else if (!strcmp(argv[1],"-b") || !strcmp(argv[1],"--baudrate"))
+				{
+					strcpy(modemdevice,MODEMDEVICE_DEFAUT);
+					
+					baudrate = atoi(argv[2]);
+				}	
+				else
+				{
+					err_flag = 1;			
+				}
+				break;
+				
+		case 5:if ((!strcmp(argv[1],"-p") || !strcmp(argv[1],"--port")) && (!strcmp(argv[3],"-b") || !strcmp(argv[3],"--baudrate")))
+				{
+					strcpy(modemdevice,argv[2]);
+					strcpy(baudrate,"B");
+					strcat(baudrate,argv[4]);
+				}
+				else if ((!strcmp(argv[3],"-p") || !strcmp(argv[3],"--port")) && (!strcmp(argv[1],"-b") || !strcmp(argv[1],"--baudrate")))
+				{
+					strcpy(modemdevice,argv[4]);
+					strcpy(baudrate,"B");
+					strcat(baudrate,argv[2]);
+				}	
+				else
+				{
+					err_flag = 1;			
+				}
+				break;
+				
+		default:strcpy(modemdevice,MODEMDEVICE_DEFAUT);
+			    baudrate = BAUDRATE_DEFAUT;
+			    break;
+	}
+
+	if(!err_flag)
+	{

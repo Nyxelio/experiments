@@ -1,0 +1,836 @@
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<meta content="Lipala est un site de jeux gratuits sans obligation d'achat qui permet de gagner des cadeaux tout en vous amusant. Vous pouvez gagner en jouant gratuitement à des jeux flash, en grattant des tickets ou en participant à nos différents concours." name="description">
+<meta content="jeux gratuits, jeux en ligne, jeux flash, gagner des cadeaux, Jeux de grattage, jouer gratuitement, concours, cadeaux gratuits" name="Keywords">
+<meta content="fr" name="Language">
+<meta content="all,index,follow" name="ROBOTS">
+<meta content="http://www.lipala.com" name="identifier-url">
+<meta content="contact@lipala.com" name="reply-to">
+<meta content="http://www.lipala.com" name="Author">
+<meta content="all,index,follow" name="ROBOTS">
+<meta content="15 days" name="revisit-after">
+<title>Lipala - JEUX GRATUITS, JEUX EN LIGNE et concours pour gagner des cadeaux</title>
+<link type="text/css" rel="stylesheet" href="http://media.lipala.com/style_v2/style.css?v=13">
+<link type="text/css" rel="stylesheet" href="http://media.lipala.com/style_v2/nav-h.css?v=13">
+<style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
+.fb_invisible{display:none}
+.fb_reset{background:none;border-spacing:0;border:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}
+.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}
+.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}
+.fb_dialog_content{background:#fff;color:#333}
+.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yA/x/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px;top:8px\9;right:7px\9}
+.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}
+.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}
+.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yA/x/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/s816eWC-2sl.gif)}
+.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yA/x/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/y6/x/s816eWC-2sl.gif)}
+.fb_dialog_loader{background-color:#f2f2f2;border:1px solid #606060;font-size:24px;padding:20px}
+.fb_dialog_top_left,
+.fb_dialog_top_right,
+.fb_dialog_bottom_left,
+.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}
+/* @noflip */
+.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}
+/* @noflip */
+.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}
+/* @noflip */
+.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}
+/* @noflip */
+.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yR/x/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right,
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}
+.fb_dialog_vert_left,
+.fb_dialog_vert_right{width:10px;height:100%}
+.fb_dialog_vert_left{margin-left:-10px}
+.fb_dialog_vert_right{right:0;margin-right:-10px}
+.fb_dialog_horiz_top,
+.fb_dialog_horiz_bottom{width:100%;height:10px}
+.fb_dialog_horiz_top{margin-top:-10px}
+.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}
+.fb_dialog_iframe{line-height:0}
+.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3b5998;color:#fff;font-size:14px;font-weight:bold;margin:0}
+.fb_dialog_content .dialog_title &gt; span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yD/x/Cou7n-nqK52.gif)
+no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}
+body.fb_hidden{-webkit-transform:none;height:100%;margin:0;left:-10000px;overflow:visible;position:absolute;top:-10000px;width:100%
+}
+.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yc/x/3rhSv5V8j3o.gif)
+white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}
+.fb_dialog.fb_dialog_mobile.loading.centered{max-height:590px;min-height:590px;max-width:500px;min-width:500px}
+#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}
+#fb-root #fb_dialog_ipad_overlay.hidden{display:none}
+.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}
+.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0 0, 0 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}
+.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%
+}
+.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px
+}
+.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0 0, 0 100%, from(#4966A6),
+color-stop(0.5, #355492), to(#2A4887));border:1px solid #29447e;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset,
+rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}
+.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}
+.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yJ/x/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}
+.fb_dialog_content .dialog_footer{background:#f2f2f2;border:1px solid #555;border-top-color:#ccc;height:40px}
+#fb_dialog_loader_close{float:left}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}
+.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}
+.fb_iframe_widget{position:relative;display:-moz-inline-block;display:inline-block}
+.fb_iframe_widget iframe{position:absolute}
+.fb_iframe_widget_lift{z-index:1}
+.fb_iframe_widget span{position:relative;display:inline-block;vertical-align:text-bottom;text-align:justify}
+.fb_hide_iframes iframe{position:relative;left:-10000px}
+.fb_iframe_widget_loader{position:relative;display:inline-block}
+.fb_iframe_widget_fluid{display:inline}
+.fb_iframe_widget_fluid span{width:100%}
+.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}
+.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yJ/x/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+.fb_button_simple,
+.fb_button_simple_rtl{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yH/x/eIpbnVKI9lR.png);background-repeat:no-repeat;cursor:pointer;outline:none;text-decoration:none}
+.fb_button_simple_rtl{background-position:right 0}
+.fb_button_simple .fb_button_text{margin:0 0 0 20px;padding-bottom:1px}
+.fb_button_simple_rtl .fb_button_text{margin:0 10px 0 0}
+a.fb_button_simple:hover .fb_button_text,
+a.fb_button_simple_rtl:hover .fb_button_text,
+.fb_button_simple:hover .fb_button_text,
+.fb_button_simple_rtl:hover .fb_button_text{text-decoration:underline}
+.fb_button,
+.fb_button_rtl{background:#29447e url(http://static.ak.fbcdn.net/rsrc.php/v2/yl/x/FGFbc80dUKj.png);background-repeat:no-repeat;cursor:pointer;display:inline-block;padding:0 0 0 1px;text-decoration:none;outline:none}
+.fb_button .fb_button_text,
+.fb_button_rtl .fb_button_text{background:#5f78ab url(http://static.ak.fbcdn.net/rsrc.php/v2/yl/x/FGFbc80dUKj.png);border-top:solid 1px #879ac0;border-bottom:solid 1px #1a356e;color:#fff;display:block;font-family:"lucida grande",tahoma,verdana,arial,sans-serif;font-weight:bold;padding:2px 6px 3px 6px;margin:1px 1px 0 21px;text-shadow:none}
+a.fb_button,
+a.fb_button_rtl,
+.fb_button,
+.fb_button_rtl{text-decoration:none}
+a.fb_button:active .fb_button_text,
+a.fb_button_rtl:active .fb_button_text,
+.fb_button:active .fb_button_text,
+.fb_button_rtl:active .fb_button_text{border-bottom:solid 1px #29447e;border-top:solid 1px #45619d;background:#4f6aa3;text-shadow:none}
+.fb_button_xlarge,
+.fb_button_xlarge_rtl{background-position:left -60px;font-size:24px;line-height:30px}
+.fb_button_xlarge .fb_button_text{padding:3px 8px 3px 12px;margin-left:38px}
+a.fb_button_xlarge:active{background-position:left -99px}
+.fb_button_xlarge_rtl{background-position:right -268px}
+.fb_button_xlarge_rtl .fb_button_text{padding:3px 8px 3px 12px;margin-right:39px}
+a.fb_button_xlarge_rtl:active{background-position:right -307px}
+.fb_button_large,
+.fb_button_large_rtl{background-position:left -138px;font-size:13px;line-height:16px}
+.fb_button_large .fb_button_text{margin-left:24px;padding:2px 6px 4px 6px}
+a.fb_button_large:active{background-position:left -163px}
+.fb_button_large_rtl{background-position:right -346px}
+.fb_button_large_rtl .fb_button_text{margin-right:25px}
+a.fb_button_large_rtl:active{background-position:right -371px}
+.fb_button_medium,
+.fb_button_medium_rtl{background-position:left -188px;font-size:11px;line-height:14px}
+a.fb_button_medium:active{background-position:left -210px}
+.fb_button_medium_rtl{background-position:right -396px}
+.fb_button_text_rtl,
+.fb_button_medium_rtl .fb_button_text{padding:2px 6px 3px 6px;margin-right:22px}
+a.fb_button_medium_rtl:active{background-position:right -418px}
+.fb_button_small,
+.fb_button_small_rtl{background-position:left -232px;font-size:10px;line-height:10px}
+.fb_button_small .fb_button_text{padding:2px 6px 3px;margin-left:17px}
+a.fb_button_small:active,
+.fb_button_small:active{background-position:left -250px}
+.fb_button_small_rtl{background-position:right -440px}
+.fb_button_small_rtl .fb_button_text{padding:2px 6px;margin-right:18px}
+a.fb_button_small_rtl:active{background-position:right -458px}
+.fb_share_count_wrapper{position:relative;float:left}
+.fb_share_count{background:#b0b9ec none repeat scroll 0 0;color:#333;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;text-align:center}
+.fb_share_count_inner{background:#e8ebf2;display:block}
+.fb_share_count_right{margin-left:-1px;display:inline-block}
+.fb_share_count_right .fb_share_count_inner{border-top:solid 1px #e8ebf2;border-bottom:solid 1px #b0b9ec;margin:1px 1px 0 1px;font-size:10px;line-height:10px;padding:2px 6px 3px;font-weight:bold}
+.fb_share_count_top{display:block;letter-spacing:-1px;line-height:34px;margin-bottom:7px;font-size:22px;border:solid 1px #b0b9ec}
+.fb_share_count_nub_top{border:none;display:block;position:absolute;left:7px;top:35px;margin:0;padding:0;width:6px;height:7px;background-repeat:no-repeat;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yP/x/bSOHtKbCGYI.png)}
+.fb_share_count_nub_right{border:none;display:inline-block;padding:0;width:5px;height:10px;background-repeat:no-repeat;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/x/i_oIVTKMYsL.png);vertical-align:top;background-position:right 5px;z-index:10;left:2px;margin:0 2px 0 0;position:relative}
+.fb_share_no_count{display:none}
+.fb_share_size_Small .fb_share_count_right .fb_share_count_inner{font-size:10px}
+.fb_share_size_Medium .fb_share_count_right .fb_share_count_inner{font-size:11px;padding:2px 6px 3px;letter-spacing:-1px;line-height:14px}
+.fb_share_size_Large .fb_share_count_right .fb_share_count_inner{font-size:13px;line-height:16px;padding:2px 6px 4px;font-weight:normal;letter-spacing:-1px}
+.fb_share_count_hidden .fb_share_count_nub_top,
+.fb_share_count_hidden .fb_share_count_top,
+.fb_share_count_hidden .fb_share_count_nub_right,
+.fb_share_count_hidden .fb_share_count_right{visibility:hidden}
+.fb_connect_bar_container div,
+.fb_connect_bar_container span,
+.fb_connect_bar_container a,
+.fb_connect_bar_container img,
+.fb_connect_bar_container strong{background:none;border-spacing:0;border:0;direction:ltr;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal;vertical-align:baseline}
+.fb_connect_bar_container{position:fixed;left:0 !important;right:0 !important;height:42px !important;padding:0 25px !important;margin:0 !important;vertical-align:middle !important;border-bottom:1px solid #333 !important;background:#3b5998 !important;z-index:99999999 !important;overflow:hidden !important}
+.fb_connect_bar_container_ie6{position:absolute;top:expression(document.compatMode=="CSS1Compat"? document.documentElement.scrollTop+"px":body.scrollTop+"px")}
+.fb_connect_bar{position:relative;margin:auto;height:100%;width:100%;padding:6px 0 0 0 !important;background:none;color:#fff !important;font-family:"lucida grande", tahoma, verdana, arial, sans-serif !important;font-size:13px !important;font-style:normal !important;font-variant:normal !important;font-weight:normal !important;letter-spacing:normal !important;line-height:1 !important;text-decoration:none !important;text-indent:0 !important;text-shadow:none !important;text-transform:none !important;white-space:normal !important;word-spacing:normal !important}
+.fb_connect_bar a:hover{color:#fff}
+.fb_connect_bar .fb_profile img{height:30px;width:30px;vertical-align:middle;margin:0 6px 5px 0}
+.fb_connect_bar div a,
+.fb_connect_bar span,
+.fb_connect_bar span a{color:#bac6da;font-size:11px;text-decoration:none}
+.fb_connect_bar .fb_buttons{float:right;margin-top:7px}
+.fb_edge_widget_with_comment{position:relative;*z-index:1000}
+.fb_edge_widget_with_comment span.fb_edge_comment_widget{position:absolute}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget{z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget .FB_Loader{left:0;top:1px;margin-top:6px;margin-left:0;background-position:50% 50%;background-color:#fff;height:150px;width:394px;border:1px #666 solid;border-bottom:2px solid #283e6c;z-index:1}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.dark .FB_Loader{background-color:#000;border-bottom:2px solid #ccc}
+.fb_edge_widget_with_comment span.fb_send_button_form_widget.siderender
+.FB_Loader{margin-top:0}
+.fbpluginrecommendationsbarleft,
+.fbpluginrecommendationsbarright{position:fixed !important;bottom:0;z-index:999}
+/* @noflip */
+.fbpluginrecommendationsbarleft{left:10px}
+/* @noflip */
+.fbpluginrecommendationsbarright{right:10px}</style></head>
+<body>
+
+
+
+<div id="page">
+	<div id="header"></div>
+	<div id="page_gauche">
+		<div id="menu_haut">
+			<ul>
+				<li><a href="les_jeux_site.php"><img alt="Jouer" src="style_v2/images/menu_haut_bouton_jouer.png"></a></li>
+				<li><a href="differents_moyens_pour_obtenir_des_lipalacodes_et_allopass_site.php"><img alt="+ de jetons" src="style_v2/images/menu_haut_bouton_jetons_s.png"></a></li>
+				<li><a href="mon_compte.php"><img alt="Mon compte" src="style_v2/images/menu_haut_bouton_compte.png"></a></li>
+				<li><a href="boutique.php"><img alt="Boutique" src="style_v2/images/menu_haut_bouton_boutique.png"></a></li>
+				<li><a href="club_premium.php"><img alt="Club Premium" src="style_v2/images/menu_haut_bouton_premium.png"></a></li>
+				<li><a href="parrainage.php"><img alt="Parrainage" src="style_v2/images/menu_haut_bouton_parrainage.png"></a></li>
+				<li><a href="foire_aux_questions_site.php"><img alt="Aide" src="style_v2/images/menu_haut_bouton_aide.png"></a></li>
+				<li><a href="contact_site.php"><img alt="Contact" src="style_v2/images/menu_haut_bouton_contact.png"></a></li>
+			</ul>
+		</div>
+		<div id="page_gauche_fond">
+			<div id="menu_gauche">
+				
+<div class="menu_gauche_haut"><img alt="Espace Membre" src="style_v2/images/menu_gauche_espace_membre.png"></div>
+<div class="menu_gauche_corps">
+
+<table width="100%">
+<tbody><tr>
+<td width="15%" valign="middle" align="center"><a onmouseout="$('#info_bulle_deconnexion').toggle();" onmouseover="$('#info_bulle_deconnexion').toggle();" href="deconnexion.php"><img border="0" alt="" src="style_v2/images/icone_menu_deconnexion.png"></a><div id="info_bulle_deconnexion"><p>Ce bouton vous permet de vous déconnecter du site</p></div></td>
+<td valign="middle" align="center" colspan="2"><a onmouseout="$('#info_bulle_membre').toggle();" onmouseover="$('#info_bulle_membre').toggle();" class="espace_membre_email" href="mon_compte.php">Nicolas P.</a><div id="info_bulle_membre"><p>Consultez votre compte, modifiez votre profil, suivez vos commandes, suivez vos filleuls etc ... en cliquant sur ce lien</p></div></td>
+<td width="15%" valign="middle" align="center">
+
+
+<a onmouseout="$('#info_bulle_message').toggle();" onmouseover="$('#info_bulle_message').toggle();" href="clan_message.php"><img border="0" alt="" src="style_v2/images/icone_menu_message.png"></a><div id="info_bulle_message"><p>Lisez ou envoyez des messages privés en cliquant sur ce lien</p></div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" height="57" align="center" style="background:transparent url(style_v2/images/espace_membre_jetons_gratuits.png) no-repeat top center;" colspan="4">
+<div style="height:23px;"></div>
+<a onmouseout="$('#info_bulle_jetons').toggle();" onmouseover="$('#info_bulle_jetons').toggle();" class="espace_membre_jetons_gratuits" href="foire_aux_questions_site.php?id=5#q5"><div id="update_gratuits">0 (0+0)</div></a><div id="info_bulle_jetons"><p>Ces jetons vous permettent de jouer à nos différents jeux, nous vous en offrons  tous les jours, vous pouvez aussi vous en procurer pour jouer encore plus, en cliquant sur le bouton "obtenir + de jetons" qui se trouve dans le menu du haut.<br><br>Cliquez pour en savoir plus</p></div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="58" align="center" style="background:transparent url(style_v2/images/espace_membre_jetons_payants.png) no-repeat top center;" colspan="4">
+<div style="height:23px;"></div>
+<a onmouseout="$('#info_bulle_jetons_payants').toggle();" onmouseover="$('#info_bulle_jetons_payants').toggle();" class="espace_membre_jetons_payants" href="differents_moyens_pour_obtenir_des_lipalacodes_et_allopass_site.php"><div id="update_payants">0</div></a><div id="info_bulle_jetons_payants"><p>Ces jetons vous permettent de jouer encore plus, vous en obtiendrez grâce à nos sponsors gratuits et/ou en validant un code.<br><br>Cliquez pour en savoir plus</p></div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="51" align="center" style="background:transparent url(style_v2/images/espace_membre_points.png) no-repeat top center;" colspan="2">
+<div style="height:20px;"></div>
+<a onmouseout="$('#info_bulle_points').toggle();" onmouseover="$('#info_bulle_points').toggle();" class="espace_membre_divers" href="foire_aux_questions_site.php?id=21#q21"><div id="update_points">3253</div></a><div id="info_bulle_points"><p>Ils représentent la monnaie du site et vous en obtiendrez en grattant les différents tickets</p></div>
+</td>
+<td valign="top" height="51" align="center" style="background:transparent url(style_v2/images/espace_membre_euros.png) no-repeat top center;" colspan="2">
+<div style="height:20px;"></div>
+<a onmouseout="$('#info_bulle_zeuros').toggle();" onmouseover="$('#info_bulle_zeuros').toggle();" class="espace_membre_divers" href="foire_aux_questions_site.php?id=22#q22"><div id="update_euros">0.90</div></a><div id="info_bulle_zeuros" style="display: none;"><p>Vous pouvez en gagner sur chaque ticket gratté .<br><br>Cliquez sur ce lien pour en savoir plus</p></div>
+</td>
+</tr>
+<tr>
+<td valign="top" height="51" align="center" style="background:transparent url(style_v2/images/espace_membre_points_vip.png) no-repeat top center;" colspan="2">
+<div style="height:20px;"></div>
+<a onmouseout="$('#info_bulle_vip').toggle();" onmouseover="$('#info_bulle_vip').toggle();" class="espace_membre_divers" href="devenir_vip.php">0</a><div id="info_bulle_vip"><p>Les points VIP vous permettent d’obtenir le statut VIP que vous souhaitez et les statuts VIP vous permettent d’avoir plus de jetons gratuits par jour et avoir jusqu’à 10% de réduction dans la boutique.<br><br>Cliquez sur ce lien pour en savoir plus</p></div>
+</td>
+<td valign="top" height="51" align="center" style="background:transparent url(style_v2/images/espace_membre_vip.png) no-repeat top center;" colspan="2">
+<div style="height:20px;"></div>
+<a onmouseout="$('#info_bulle_vip').toggle();" onmouseover="$('#info_bulle_vip').toggle();" class="espace_membre_divers" href="devenir_vip.php">Aucun</a><div id="info_bulle_vip"><p>Les points VIP vous permettent d’obtenir le statut VIP que vous souhaitez et les statuts VIP vous permettent d’avoir plus de jetons gratuits par jour et avoir jusqu’à 10% de réduction dans la boutique.<br><br>Cliquez sur ce lien pour en savoir plus</p></div><br>
+</td>
+</tr>
+</tbody></table>
+
+<center>
+
+<a onmouseout="$('#info_bulle_fidelite').toggle();" onmouseover="$('#info_bulle_fidelite').toggle();" href="barre_de_fidelite.php">Barre de fidélité</a><div id="info_bulle_fidelite"><p>Grace à cette barre, vous obtiendrez des cadeaux gratuits
+
+Cliquez pour en savoir plus</p></div><br>
+<a href="barre_de_fidelite.php"><div id="barref"><img width="102px" height="10px" border="0" alt="" src="img_barre/b_pleine.png"></div></a>
+
+<br>
+
+<a href="achat_filleul.php"><font color="green"><b>1065 filleuls actifs, obtiens-en un</b> </font></a><br><br><a href="offres_clics_jetons.php">Cliquez ici pour <font color="maroon">obtenir 24 jetons</font> gratuits</a><br>
+</center>
+
+</div>
+<div class="menu_gauche_bas"></div>
+
+<div class="menu_gauche_haut"><img alt="A gagner au classement" src="http://www.lipala.com/style_v2/images/classement.png"></div><div class="menu_gauche_corps"><div class="jshowoff jshowoff-1 basicFeatures" style="position: relative;"><div id="basicFeatures" style="position: relative;"><div><center>Le 1er gagne<br><b>100 euros cash</b><br><img width="150" height="150" alt="" src="http://www.lipala.com/concours/images_concours/gris100euros.png"></center></div></div></div><div id="compteur"><center>Fin du classement:<span id="temps_restant"><b>7j 2h 2m 49s</b></span></center></div><script type="text/javascript">var temps=612301;</script><br><center><b>Vous n'êtes pas encore classé</b></center> <center><a href="http://www.lipala.com/concours_special2.php?id_concoursc=20">Voir le classement</a></center></div><div class="menu_gauche_bas"></div><div class="menu_gauche_haut"><img alt="Derniers Gagnants" src="http://www.lipala.com/style_v2/images/encart_gagnants.png"></div><div class="menu_gauche_corps"><br><iframe width="219" scrolling="no" height="144" frameborder="0" noresize="" src="http://www.lipala.com/frame_gagnants.php" style="margin-left:4px;"></iframe><center><a href="http://www.lipala.com/livre_dor_site.php">Voir les témoignages de nos gagnants</a></center></div><div class="menu_gauche_bas"></div>
+<div class="menu_gauche_haut"><img alt="Partenaires VIP" src="style_v2/images/menu_gauche_partenaires_vip.png"></div>
+<div class="menu_gauche_corps">
+<center>
+<a target="_blank" href="http://www.junglokdo.com"><img width="88" height="31" border="0" src="http://www.junglokdo.com/bannieres/bann8831.gif" alt="jeux gratuits pour gagner des cadeaux"></a>&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.uprapide.com"><img width="88" height="31" border="0" src="http://www.uprapide.com/banniere/banniere8831.gif" alt="Hebergeur d'images gratuit"></a>&nbsp;&nbsp;<br><a target="_top" title="WebAnalytics" href="http://www.xiti.com/xiti.asp?s=497478">
+<script type="text/javascript">
+&lt;!--
+Xt_param = 's=497478&amp;p=page_d_accueil';
+try {Xt_r = top.document.referrer;}
+catch(e) {Xt_r = document.referrer; }
+Xt_h = new Date();
+Xt_i = '&lt;img width="80" height="15" border="0" alt="" ';
+Xt_i += 'src="http://logv17.xiti.com/g.xiti?'+Xt_param;
+Xt_i += '&amp;hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+if(parseFloat(navigator.appVersion)&gt;=4)
+{Xt_s=screen;Xt_i+='&amp;r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+document.write(Xt_i+'&amp;ref='+Xt_r.replace(/[&lt;&gt;"]/g, '').replace(/&amp;/g, '$')+'" title="Internet Audience"&gt;');
+//--&gt;
+</script><img width="80" height="15" border="0" title="Internet Audience" src="http://logv17.xiti.com/g.xiti?s=497478&amp;p=page_d_accueil&amp;hl=18x38x24&amp;r=1440x900x24x24&amp;ref=" alt="">
+<noscript>
+Mesure d'audience ROI statistique webanalytics par &lt;img width="80" height="15" src="http://logv17.xiti.com/g.xiti?s=497478&amp;p=page_d_accueil" alt="WebAnalytics" /&gt;
+</noscript></a>
+<br>
+<a target="_parent" href="partenaires2.php">Tous les partenaires <br> Vous ici?</a><br><br>
+</center>
+<table width="80%">
+<tbody><tr>
+<td valign="middle" align="right">
+<iframe scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:90px; height:21px;margin-left:30px;" src="http://www.facebook.com/plugins/like.php?app_id=228789517136718&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FLipala%2F320791154640370&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21"></iframe>
+</td>
+<td valign="middle" align="left">
+<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0pt; width: 0pt;"><div><iframe id="fb_xdm_frame_http" name="fb_xdm_frame_http" src="http://static.ak.facebook.com/connect/xd_arbiter.php?version=18#channel=f61c4d99f92e4c&amp;origin=http%3A%2F%2Fwww.lipala.com&amp;channel_path=%2Fdifferents_moyens_pour_obtenir_des_lipalacodes_et_allopass_site.php%3Fonglet%3D5%26fb_xd_fragment%23xd_sig%3Df7f84b2583187a%26" tabindex="-1"></iframe><iframe id="fb_xdm_frame_https" name="fb_xdm_frame_https" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=18#channel=f61c4d99f92e4c&amp;origin=http%3A%2F%2Fwww.lipala.com&amp;channel_path=%2Fdifferents_moyens_pour_obtenir_des_lipalacodes_et_allopass_site.php%3Fonglet%3D5%26fb_xd_fragment%23xd_sig%3Df7f84b2583187a%26" tabindex="-1"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0pt; width: 0pt;"><div></div></div></div><script src="http://connect.facebook.net/fr_FR/all.js#xfbml=1"></script><fb:send font="arial" href="http://www.lipala.com" fb-xfbml-state="rendered" class="fb_edge_widget_with_comment fb_iframe_widget"><span style="height: 20px; width: 66px;"><iframe scrolling="no" id="f700afd8cb96a8" name="f1a8b8f5b9a6056" style="border: medium none; overflow: hidden; height: 20px; width: 66px;" class="fb_ltr" src="http://www.facebook.com/plugins/send.php?api_key=&amp;locale=fr_FR&amp;sdk=joey&amp;channel=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D18%23cb%3Df25770722da07e8%26origin%3Dhttp%253A%252F%252Fwww.lipala.com%252Ff61c4d99f92e4c%26domain%3Dwww.lipala.com%26relation%3Dparent.parent&amp;font=arial&amp;colorscheme=light&amp;href=http%3A%2F%2Fwww.lipala.com&amp;extended_social_context=false"></iframe></span></fb:send>
+</td>
+</tr>
+</tbody></table>
+
+</div>
+<div class="menu_gauche_bas"></div>			</div>
+			<div id="corps">
+        		<div id="pub_haut_refresh">
+<div id="topads">
+<center><br>
+
+<a target="blank" title="Jeux gratuits pour gagner des cadeaux" href="http://www.grillegagnante.com/inscription_gratuite_jeux_flash.php?id_regie=2"><img border="0" alt="Jeux gratuits" src="http://www.grillegagnante.com/bannieres/bann72890.gif"></a>
+</center>
+</div>
+
+</div>
+<iframe width="749" scrolling="no" height="1500" frameborder="0" name="frame_paiement" marginheight="0" marginwidth="0" src="moyens-paiement/jetons.php?onglet=5"></iframe>
+
+			<div id="pub_bas_refresh">
+<div id="bottomads">
+<center>
+
+<iframe width="728" scrolling="no" height="90" align="top" frameborder="0" marginheight="0" marginwidth="0" src="/pub/72890b1.php"></iframe>
+<br><br>
+</center>
+</div>
+
+</div>
+					</div>
+					<div id="footer_liens">
+						<p>
+							<a href="convertir_zeuros.php">Convertissez vos euros en points</a> |
+							<a target="_blank" href="http://www.lipala.com/facebook_partage.php">Parraine des amis via Facebook et gagne gratuitement des jetons</a> |
+							<a target="_blank" href="http://www.lipala.com/twitter_partage.php">Parraine des amis via Twitter</a> |							<a target="_parent" href="les_jeux_site.php">Tous les jeux</a> |
+							<a target="_parent" href="nouveautes_site.php">Nouveautés</a> |
+							<a target="_parent" href="guide_des_debutants.php">Guide des débutants</a> |
+							<a target="_parent" href="derniers_lots_envoyes_jeux_et_concours_site.php">Derniers lots envoyés</a> |
+							<a target="_blank" href="http://www.jlkgame.com/reglement/reglementjlkgame.pdf">Règlement</a> |
+							<a target="_parent" href="foire_aux_questions_site.php">F.A.Q</a> |
+							<a target="_parent" href="contact_site.php">Contact</a> |
+							<a target="_parent" href="livre_dor_site.php">Livre d'or</a> |
+							<a target="_parent" href="bannieres_lipala_site.php">Nos bannières</a> |
+							<a target="_parent" href="annoncer_site.php">Annoncer</a> |
+							<a target="_parent" href="deconnexion.php">Déconnexion</a>
+						</p>
+					</div>
+				</div>
+				<div id="footer_partenaires">
+				<p><b>Nos partenaires : </b>
+<a target="_blank" href="http://www.lapiwin.com">Jeux grattage avec cadeaux</a> | <a target="_blank" href="http://www.pointgphone.com/">Smartphone Android</a> | <a target="_blank" href="http://friphone.net">Actualite iphone et ipad</a> | <a target="_blank" href="http://www.sorencontre.fr">Rencontre gratuite</a> | <a target="_blank" href="http://uprapide.com">Heberger une image</a> | <a target="_blank" href="http://www.clicou-gagnou.com">ClicOu-GagnOu?</a> | <a target="_blank" href="http://www.2001jeux.com/jeux-pour-gagner-des-cadeaux.html">Gagner des cadeaux</a> | <a target="_blank" href="http://www.sitacados.com">Jeux gratuits</a> | <a target="_blank" href="http://www.dripwin.com">Jeux concours</a> | <a target="_blank" href="http://www.mayawin.com">Jeu concours</a> | <a target="_blank" href="http://www.Crocastuce.fr">Jeux gratuits</a> | <a target="_parent" href="partenaires.php">Vous ici ?</a>					</p>
+
+				</div>
+			</div>
+			<div id="page_droite">
+				<div id="pub_droite_refresh"><div id="left_ads"><br><br><br><br>
+<iframe width="120" scrolling="no" height="600" align="top" frameborder="0" marginheight="0" marginwidth="0" src="/pub/120600d2.php"></iframe>
+</div></div>
+			</div>
+			<div id="footer">
+				<p>49  membres connectés<br>
+				<b>Autres sites du même réseau (JLKgame) que lipala : <a color="#ffffff" target="_blank" href="http://www.grillegagnante.com/autologin.php?email=datenshi33%40gmail.com&amp;pass=f5c2f90e0cf32b3e4f645129f2a05229&amp;url=http://www.grillegagnante.com/membre.php">GrilleGagnante</a>, <a color="#ffffff" target="_blank" href="http://www.junglokdo.com/autologin.php?email=datenshi33%40gmail.com&amp;pass=f5c2f90e0cf32b3e4f645129f2a05229&amp;url=http://www.junglokdo.com/membre.php">JungloKDO</a>, <a color="#ffffff" target="_blank" href="http://www.lapiwin.com/autologin.php?email=datenshi33%40gmail.com&amp;pass=f5c2f90e0cf32b3e4f645129f2a05229&amp;url=http://www.lapiwin.com/membre.php">Lapiwin</a></b><br>
+				&copy; 2012 - 2013 | Tous droits réservés | Enregistré au RCS de Seine et Marne sous le numéro de Siren 509 736 484 | CNIL : 1401214</p>
+			</div>
+
+
+<script src="jquery/jquery.min.js?v=10" type="text/javascript"></script>
+<script src="jquery/jquery.cycle.all.min.js?v=10" type="text/javascript"></script>
+<script src="jquery/jquery.innerfade.js?v=10" type="text/javascript"></script>
+<script src="jquery/jquery.jshowoff.min.js?v=10" type="text/javascript"></script>
+<script src="jquery/jqModal.js?v=10" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+function PageChargée()
+{
+	if (document.getElementById)
+	{
+		document.getElementById("news").innerHTML="&lt;li&gt;&lt;b&gt;En cliquant sur le bouton 'j'aime' qui se trouve à gauche, vous pourrez gagner des codes gratuits sur notre page f...&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Parrainez vos amis et gagnez des dizaines de jetons supplémentaires gratuitement&lt;/b&gt;&lt;/li&gt;&lt;li&gt;De Jean M. : un grand merci à vous pour les 100 euros que j\'ai gagné rapidement.  longue vie à lipala&lt;/li&gt;";
+	}
+	else if (document.all)
+	{
+		document.all["news"].innerHTML="&lt;li&gt;&lt;b&gt;En cliquant sur le bouton 'j'aime' qui se trouve à gauche, vous pourrez gagner des codes gratuits sur notre page f...&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Parrainez vos amis et gagnez des dizaines de jetons supplémentaires gratuitement&lt;/b&gt;&lt;/li&gt;&lt;li&gt;De Jean M. : un grand merci à vous pour les 100 euros que j\'ai gagné rapidement.  longue vie à lipala&lt;/li&gt;";
+	}
+}
+
+PageChargée();
+</script>
+
+<script type="text/javascript">
+$.fn.cycle.updateActivePagerLink = function(pager, currSlideIndex) {
+	if (currSlideIndex==0)
+	{
+		$(pager).find('li').filter('li:eq(0)').removeClass('desactiveLI0');
+		$(pager).find('li').filter('li:eq(0)').addClass('activeLI0');
+		$(pager).find('li').filter('li:eq(1)').removeClass('activeLI1');
+		$(pager).find('li').filter('li:eq(1)').addClass('desactiveLI1');
+		$(pager).find('li').filter('li:eq(2)').removeClass('activeLI2');
+		$(pager).find('li').filter('li:eq(2)').addClass('desactiveLI2');
+		$(pager).find('li').filter('li:eq(3)').removeClass('activeLI3');
+		$(pager).find('li').filter('li:eq(3)').addClass('desactiveLI3');
+		$(pager).find('li').filter('li:eq(4)').removeClass('activeLI4');
+		$(pager).find('li').filter('li:eq(4)').addClass('desactiveLI4');
+	}
+	if (currSlideIndex==1)
+	{
+		$(pager).find('li').filter('li:eq(0)').removeClass('activeLI0');
+		$(pager).find('li').filter('li:eq(0)').addClass('desactiveLI0');
+		$(pager).find('li').filter('li:eq(1)').removeClass('desactiveLI1');
+		$(pager).find('li').filter('li:eq(1)').addClass('activeLI1');
+		$(pager).find('li').filter('li:eq(2)').removeClass('activeLI2');
+		$(pager).find('li').filter('li:eq(2)').addClass('desactiveLI2');
+		$(pager).find('li').filter('li:eq(3)').removeClass('activeLI3');
+		$(pager).find('li').filter('li:eq(3)').addClass('desactiveLI3');
+		$(pager).find('li').filter('li:eq(4)').removeClass('activeLI4');
+		$(pager).find('li').filter('li:eq(4)').addClass('desactiveLI4');
+	}
+	if (currSlideIndex==2)
+	{
+		$(pager).find('li').filter('li:eq(0)').removeClass('activeLI0');
+		$(pager).find('li').filter('li:eq(0)').addClass('desactiveLI0');
+		$(pager).find('li').filter('li:eq(1)').removeClass('activeLI1');
+		$(pager).find('li').filter('li:eq(1)').addClass('desactiveLI1');
+		$(pager).find('li').filter('li:eq(2)').removeClass('desactiveLI2');
+		$(pager).find('li').filter('li:eq(2)').addClass('activeLI2');
+		$(pager).find('li').filter('li:eq(3)').removeClass('activeLI3');
+		$(pager).find('li').filter('li:eq(3)').addClass('desactiveLI3');
+		$(pager).find('li').filter('li:eq(4)').removeClass('activeLI4');
+		$(pager).find('li').filter('li:eq(4)').addClass('desactiveLI4');
+	}
+	if (currSlideIndex==3)
+	{
+		$(pager).find('li').filter('li:eq(0)').removeClass('activeLI0');
+		$(pager).find('li').filter('li:eq(0)').addClass('desactiveLI0');
+		$(pager).find('li').filter('li:eq(1)').removeClass('activeLI1');
+		$(pager).find('li').filter('li:eq(1)').addClass('desactiveLI1');
+		$(pager).find('li').filter('li:eq(2)').removeClass('activeLI2');
+		$(pager).find('li').filter('li:eq(2)').addClass('desactiveLI2');
+		$(pager).find('li').filter('li:eq(3)').removeClass('desactiveLI3');
+		$(pager).find('li').filter('li:eq(3)').addClass('activeLI3');
+		$(pager).find('li').filter('li:eq(4)').removeClass('activeLI4');
+		$(pager).find('li').filter('li:eq(4)').addClass('desactiveLI4');
+	}
+	if (currSlideIndex==4)
+	{
+		$(pager).find('li').filter('li:eq(0)').removeClass('activeLI0');
+		$(pager).find('li').filter('li:eq(0)').addClass('desactiveLI0');
+		$(pager).find('li').filter('li:eq(1)').removeClass('activeLI1');
+		$(pager).find('li').filter('li:eq(1)').addClass('desactiveLI1');
+		$(pager).find('li').filter('li:eq(2)').removeClass('activeLI2');
+		$(pager).find('li').filter('li:eq(2)').addClass('desactiveLI2');
+		$(pager).find('li').filter('li:eq(3)').removeClass('activeLI3');
+		$(pager).find('li').filter('li:eq(3)').addClass('desactiveLI3');
+		$(pager).find('li').filter('li:eq(4)').removeClass('desactiveLI4');
+		$(pager).find('li').filter('li:eq(4)').addClass('activeLI4');
+	}
+};
+
+$(function() {
+    $('#slideshow').cycle({
+    	speed:200,
+        timeout: 20000,
+        pager:  '#nav',
+        pagerAnchorBuilder: function(idx, slide) {
+            return '\074li\076\074a href="#"\076\074/a\076\074/li\076';
+        }
+    });
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$('#news').innerfade({
+			animationtype: 'fade',
+			speed: 750,
+			timeout: 10000,
+			type: 'sequence',
+			containerheight: '1em'
+		});
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$('#basicFeatures').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeatures',
+			hoverPause: false
+		});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$('#basicFeaturesSpecial').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesSpecial',
+			hoverPause: false
+		});
+});
+$(document).ready(
+	function(){
+		$('#basicFeaturesSpecialTexte').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesSpecialTexte',
+			hoverPause: false
+		});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$('#basicFeaturesSponsors').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesSponsors',
+			hoverPause: false
+		});
+});
+$(document).ready(
+	function(){
+		$('#basicFeaturesSponsorsTexte').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesSponsorsTexte',
+			hoverPause: false
+		});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$('#basicFeaturesTickets').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesTickets',
+			hoverPause: false
+		});
+});
+$(document).ready(
+	function(){
+		$('#basicFeaturesTicketsTexte').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesTicketsTexte',
+			hoverPause: false
+		});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$('#basicFeaturesCoupe').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesCoupe',
+			hoverPause: false
+		});
+});
+$(document).ready(
+	function(){
+		$('#basicFeaturesCoupeTexte').jshowoff({
+			links: false,
+			controls: false,
+			effect: 'none',
+			cssClass: 'basicFeaturesCoupeTexte',
+			hoverPause: false
+		});
+});
+</script>
+
+<script type="text/javascript">
+update_temps_restant();
+
+function update_temps_restant()
+{
+	if (document.getElementById("temps_restant"))
+	{
+		var text;
+
+		temps=temps-1;
+		if (temps&gt;0)
+		{
+			var tt,jj,hh,mm,ss;
+
+			tt=temps;
+			jj=Math.floor(tt/(24*60*60));
+  			tt=tt-(jj*24*60*60);
+			hh=Math.floor(tt/(60*60));
+			tt=tt-(hh*60*60);
+			mm=Math.floor(tt/60);
+			tt=tt-(mm*60);
+			ss=tt;
+			if (ss&gt;=0) text=ss+'s';
+			if (mm&gt;0) text=mm+'m '+text;
+			if (hh&gt;0) text=hh+'h '+text;
+			if (jj&gt;0) text=jj+'j '+text;
+		}
+		else text="Terminé";
+
+		if (document.getElementById)
+			document.getElementById("temps_restant").innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+		else if (document.all)
+			document.all["temps_restant"].innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+	}
+
+	if (document.getElementById("temps_restantSpecial"))
+	{
+		var text;
+
+		tempsSpecial=tempsSpecial-1;
+		if (tempsSpecial&gt;0)
+		{
+			var tt,jj,hh,mm,ss;
+
+			tt=tempsSpecial;
+			jj=Math.floor(tt/(24*60*60));
+  			tt=tt-(jj*24*60*60);
+			hh=Math.floor(tt/(60*60));
+			tt=tt-(hh*60*60);
+			mm=Math.floor(tt/60);
+			tt=tt-(mm*60);
+			ss=tt;
+			if (ss&gt;=0) text=ss+'s';
+			if (mm&gt;0) text=mm+'m '+text;
+			if (hh&gt;0) text=hh+'h '+text;
+			if (jj&gt;0) text=jj+'j '+text;
+		}
+		else text="Terminé";
+
+		if (document.getElementById)
+			document.getElementById("temps_restantSpecial").innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+		else if (document.all)
+			document.all["temps_restantSpecial"].innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+	}
+
+	if (document.getElementById("temps_restantSponsors"))
+	{
+		var text;
+
+		tempsSponsors=tempsSponsors-1;
+		if (tempsSponsors&gt;0)
+		{
+			var tt,jj,hh,mm,ss;
+
+			tt=tempsSponsors;
+			jj=Math.floor(tt/(24*60*60));
+  			tt=tt-(jj*24*60*60);
+			hh=Math.floor(tt/(60*60));
+			tt=tt-(hh*60*60);
+			mm=Math.floor(tt/60);
+			tt=tt-(mm*60);
+			ss=tt;
+			if (ss&gt;=0) text=ss+'s';
+			if (mm&gt;0) text=mm+'m '+text;
+			if (hh&gt;0) text=hh+'h '+text;
+			if (jj&gt;0) text=jj+'j '+text;
+		}
+		else text="Terminé";
+
+		if (document.getElementById)
+			document.getElementById("temps_restantSponsors").innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+		else if (document.all)
+			document.all["temps_restantSponsors"].innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+	}
+
+	if (document.getElementById("temps_restantTickets"))
+	{
+		var text;
+
+		tempsTickets=tempsTickets-1;
+		if (tempsTickets&gt;0)
+		{
+			var tt,jj,hh,mm,ss;
+
+			tt=tempsTickets;
+			jj=Math.floor(tt/(24*60*60));
+  			tt=tt-(jj*24*60*60);
+			hh=Math.floor(tt/(60*60));
+			tt=tt-(hh*60*60);
+			mm=Math.floor(tt/60);
+			tt=tt-(mm*60);
+			ss=tt;
+			if (ss&gt;=0) text=ss+'s';
+			if (mm&gt;0) text=mm+'m '+text;
+			if (hh&gt;0) text=hh+'h '+text;
+			if (jj&gt;0) text=jj+'j '+text;
+		}
+		else text="Terminé";
+
+		if (document.getElementById)
+			document.getElementById("temps_restantTickets").innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+		else if (document.all)
+			document.all["temps_restantTickets"].innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+	}
+
+	if (document.getElementById("temps_restantCoupe"))
+	{
+		var text;
+
+		tempsCoupe=tempsCoupe-1;
+		if (tempsCoupe&gt;0)
+		{
+			var tt,jj,hh,mm,ss;
+
+			tt=tempsCoupe;
+			jj=Math.floor(tt/(24*60*60));
+  			tt=tt-(jj*24*60*60);
+			hh=Math.floor(tt/(60*60));
+			tt=tt-(hh*60*60);
+			mm=Math.floor(tt/60);
+			tt=tt-(mm*60);
+			ss=tt;
+			if (ss&gt;=0) text=ss+'s';
+			if (mm&gt;0) text=mm+'m '+text;
+			if (hh&gt;0) text=hh+'h '+text;
+			if (jj&gt;0) text=jj+'j '+text;
+		}
+		else text="Terminé";
+
+		if (document.getElementById)
+			document.getElementById("temps_restantCoupe").innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+		else if (document.all)
+			document.all["temps_restantCoupe"].innerHTML="&lt;b&gt;"+text+"&lt;/b&gt;";
+	}
+
+	setTimeout('update_temps_restant();',1000);
+}
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(
+	function(){
+		$("#navmenu-h li,#navmenu-v li").hover( function() { $(this).addClass("iehover"); }, function() { $(this).removeClass("iehover"); } ); });
+</script>
+
+<script type="text/javascript">
+$().ready(function()
+{
+	var b=0;
+	while (1)
+	{
+		b++;
+		if (document.getElementById('jqModal'+b))
+			$('#dialog'+b).jqm({trigger: '#jqModal'+b});
+		else break;
+	}
+});
+</script>
+
+<script type="text/javascript">
+$().ready(function()
+{
+	var b=0;
+	while (1)
+	{
+		if (document.getElementById('jqModalBoutique'+b))
+			$('#dialogBoutique'+b).jqm({trigger: '#jqModalBoutique'+b});
+		else break;
+		b++;
+	}
+});
+</script>
+
+<script type="text/javascript">
+$().ready(function()
+{
+	if (document.getElementById('jqModalMembre'))
+	{
+		$('#dialogMembre').jqm({trigger:'#jqModalMembre',modal:true});
+		$('#dialogMembre').jqmShow();
+	}
+});
+</script>
+
+<script type="text/javascript">
+$().ready(function()
+{
+	if (document.getElementById('jqModalPubJeu'))
+	{
+		$('#dialogPubJeu').jqm({trigger:'#jqModalPubJeu',modal:true});
+		$('#dialogPubJeu').jqmShow();
+	}
+});
+</script>
+
+<script type="text/javascript">
+function update_infos_membre()
+{
+	if (document.getElementById('update_gratuits'))
+	{
+    	$.get("http://www.lipala.com/infos_membre_gratuits.php",function(data)
+    	{
+    	    $('#update_gratuits').html(data);
+    	});
+    }
+	if (document.getElementById('update_payants'))
+	{
+		$.get("http://www.lipala.com/infos_membre_payants.php",function(data)
+		{
+			$('#update_payants').html(data);
+		});
+	}
+	if (document.getElementById('update_points'))
+	{
+		$.get("http://www.lipala.com/infos_membre_points.php",function(data)
+		{
+			$('#update_points').html(data);
+		});
+	}
+	if (document.getElementById('update_euros'))
+	{
+		$.get("http://www.lipala.com/infos_membre_euros.php",function(data)
+		{
+			$('#update_euros').html(data);
+		});
+	}
+}
+</script>
+
+
+
+</div></body></html>

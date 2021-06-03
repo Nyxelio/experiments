@@ -1,0 +1,48 @@
+#!/usr/bin/perl 
+#===============================================================================
+#
+#         FILE:  curses.pl
+#
+#        USAGE:  ./curses.pl 
+#
+#  DESCRIPTION:  
+#
+#      OPTIONS:  ---
+# REQUIREMENTS:  ---
+#         BUGS:  ---
+#        NOTES:  ---
+#       AUTHOR:  [Datenshi]
+#      COMPANY:  
+#      VERSION:  0.1
+#      CREATED:  26.06.2008 19:34:41 CEST
+#     REVISION:  ---
+#===============================================================================
+
+use strict;
+use warnings;
+use Curses::UI;
+
+my $cui = Curses::UI->new;
+#    $cui->progress(
+#        -max => 10,
+#        -message => "Counting 10 seconds...",
+#    );
+#
+#    for my $second (0..10) {
+#        $cui->setprogress($second);
+#        sleep 1;
+#    }
+#
+#    $cui->noprogress;
+ my $yes = $cui->dialog(
+        -message => "Hello, world?",
+        -buttons => ['yes','no'],
+        -values  => [1,0],
+        -title   => 'Question',
+    );
+
+    if ($yes) {
+        # whatever
+    }
+#$cui->mainloop;
+

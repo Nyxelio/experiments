@@ -1,0 +1,134 @@
+Going to read '/root/.cpan/Metadata'
+  Database was generated on Tue, 27 Nov 2012 17:55:03 GMT
+Running install for module 'WWW::Mechanize'
+Running make for J/JE/JESSE/WWW-Mechanize-1.72.tar.gz
+Checksum for /root/.cpan/sources/authors/id/J/JE/JESSE/WWW-Mechanize-1.72.tar.gz ok
+Scanning cache /root/.cpan/build for sizes
+............................................................................DONE
+
+  CPAN.pm: Going to build J/JE/JESSE/WWW-Mechanize-1.72.tar.gz
+
+
+WWW::Mechanize likes to have a lot of test modules for some of its tests.
+The following are modules that would be nice to have, but not required.
+
+	Test::Memory::Cycle
+ 	Test::Warn
+ 	Test::Taint
+
+
+Checking if your kit is complete...
+Looks good
+Writing Makefile for WWW::Mechanize
+Writing MYMETA.yml
+---- Unsatisfied dependencies detected during ----
+----      JESSE/WWW-Mechanize-1.72.tar.gz     ----
+    HTTP::Server::Simple [requires]
+    HTTP::Server::Simple::CGI [requires]
+    Test::Warn [requires]
+Running make test
+  Delayed until after prerequisites
+Running make install
+  Delayed until after prerequisites
+Running install for module 'HTTP::Server::Simple'
+Running make for J/JE/JESSE/HTTP-Server-Simple-0.44.tar.gz
+Checksum for /root/.cpan/sources/authors/id/J/JE/JESSE/HTTP-Server-Simple-0.44.tar.gz ok
+
+  CPAN.pm: Going to build J/JE/JESSE/HTTP-Server-Simple-0.44.tar.gz
+
+Checking if your kit is complete...
+Looks good
+Writing Makefile for HTTP::Server::Simple
+Writing MYMETA.yml
+  JESSE/HTTP-Server-Simple-0.44.tar.gz
+  make -- NOT OK
+'YAML' not installed, will not store persistent state
+Running make test
+  Can't test without successful make
+Running make install
+  Make had returned bad status, install seems impossible
+Running install for module 'HTTP::Server::Simple::CGI'
+Running make for J/JE/JESSE/HTTP-Server-Simple-0.44.tar.gz
+  Has already been unwrapped into directory /root/.cpan/build/HTTP-Server-Simple-0.44-yVB1WY
+Could not make: Unknown error
+Running make test
+  Can't test without successful make
+Running make install
+  Make had returned bad status, install seems impossible
+Running install for module 'Test::Warn'
+Running make for C/CH/CHORNY/Test-Warn-0.24.tar.gz
+Checksum for /root/.cpan/sources/authors/id/C/CH/CHORNY/Test-Warn-0.24.tar.gz ok
+
+  CPAN.pm: Going to build C/CH/CHORNY/Test-Warn-0.24.tar.gz
+
+Checking if your kit is complete...
+Looks good
+Writing Makefile for Test::Warn
+Writing MYMETA.yml
+---- Unsatisfied dependencies detected during ----
+----       CHORNY/Test-Warn-0.24.tar.gz       ----
+    Sub::Uplevel [requires]
+    Carp [requires]
+Running make test
+  Delayed until after prerequisites
+Running make install
+  Delayed until after prerequisites
+Running install for module 'Sub::Uplevel'
+Running make for D/DA/DAGOLDEN/Sub-Uplevel-0.24.tar.gz
+Checksum for /root/.cpan/sources/authors/id/D/DA/DAGOLDEN/Sub-Uplevel-0.24.tar.gz ok
+
+  CPAN.pm: Going to build D/DA/DAGOLDEN/Sub-Uplevel-0.24.tar.gz
+
+Checking if your kit is complete...
+Looks good
+Writing Makefile for Sub::Uplevel
+Writing MYMETA.yml
+  DAGOLDEN/Sub-Uplevel-0.24.tar.gz
+  make -- NOT OK
+Running make test
+  Can't test without successful make
+Running make install
+  Make had returned bad status, install seems impossible
+Running install for module 'Carp'
+Running make for Z/ZE/ZEFRAM/Carp-1.26.tar.gz
+Checksum for /root/.cpan/sources/authors/id/Z/ZE/ZEFRAM/Carp-1.26.tar.gz ok
+
+  CPAN.pm: Going to build Z/ZE/ZEFRAM/Carp-1.26.tar.gz
+
+Checking if your kit is complete...
+Looks good
+Writing Makefile for Carp
+Writing MYMETA.yml
+  ZEFRAM/Carp-1.26.tar.gz
+  make -- NOT OK
+Running make test
+  Can't test without successful make
+Running make install
+  Make had returned bad status, install seems impossible
+Running make for C/CH/CHORNY/Test-Warn-0.24.tar.gz
+  Has already been unwrapped into directory /root/.cpan/build/Test-Warn-0.24-0XgmnL
+
+  CPAN.pm: Going to build C/CH/CHORNY/Test-Warn-0.24.tar.gz
+
+Warning: Prerequisite 'Sub::Uplevel => 0.12' for 'CHORNY/Test-Warn-0.24.tar.gz' failed when processing 'DAGOLDEN/Sub-Uplevel-0.24.tar.gz' with 'make => NO'. Continuing, but chances to succeed are limited.
+Warning: Prerequisite 'Carp => 1.22' for 'CHORNY/Test-Warn-0.24.tar.gz' failed when processing 'ZEFRAM/Carp-1.26.tar.gz' with 'make => NO'. Continuing, but chances to succeed are limited.
+  CHORNY/Test-Warn-0.24.tar.gz
+  make -- NOT OK
+Running make test
+  Can't test without successful make
+Running make install
+  Make had returned bad status, install seems impossible
+Running make for J/JE/JESSE/WWW-Mechanize-1.72.tar.gz
+  Has already been unwrapped into directory /root/.cpan/build/WWW-Mechanize-1.72-LsYsZl
+
+  CPAN.pm: Going to build J/JE/JESSE/WWW-Mechanize-1.72.tar.gz
+
+Warning: Prerequisite 'HTTP::Server::Simple => 0.35' for 'JESSE/WWW-Mechanize-1.72.tar.gz' failed when processing 'JESSE/HTTP-Server-Simple-0.44.tar.gz' with 'make => NO'. Continuing, but chances to succeed are limited.
+Warning: Prerequisite 'HTTP::Server::Simple::CGI => 0' for 'J/JE/JESSE/WWW-Mechanize-1.72.tar.gz' seems not available according to the indices
+Warning: Prerequisite 'Test::Warn => 0.11' for 'JESSE/WWW-Mechanize-1.72.tar.gz' failed when processing 'CHORNY/Test-Warn-0.24.tar.gz' with 'make => NO'. Continuing, but chances to succeed are limited.
+  JESSE/WWW-Mechanize-1.72.tar.gz
+  make -- NOT OK
+Running make test
+  Can't test without successful make
+Running make install
+  Make had returned bad status, install seems impossible

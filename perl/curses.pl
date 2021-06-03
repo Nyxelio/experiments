@@ -11,7 +11,7 @@
 # REQUIREMENTS:  ---
 #         BUGS:  ---
 #        NOTES:  ---
-#       AUTHOR:  [nyxelio]
+#       AUTHOR:  [Datenshi]
 #      COMPANY:  
 #      VERSION:  0.1
 #      CREATED:  26.06.2008 19:34:41 CEST

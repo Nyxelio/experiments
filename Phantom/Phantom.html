@@ -1,0 +1,167 @@
+<!doctype html>
+
+<html>
+<head>
+	<title>Projet Phantom</title>
+	<link rel="shortcut icon" href="img/PhantomIcone.png"/>
+	<link rel="stylesheet" href="/style.css" type="text/css" media="screen" />
+
+<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="ajax.js"></script>
+
+</head>
+<body>
+	<div id="head_box" class="head_box">
+		<div id="head_logo" class="head_logo"></div>
+		<div id="head_bar" class="head_bar"></div>
+		<div id="head_bar_hover" class="head_bar_hover"></div>
+		<div id="menu_tabbed_box" class="menu_tabbed_box">
+			<ul class="menu_tabs">
+				<li><a href="#">Phantom I</a></li>
+				<li><a href="#">Phantom II</a>
+				<li><a href="#">Garage</a></li>
+				<li><a href="#">Pr&eacute;f&eacute;rences</a></li>
+			</ul>
+			<ul class="menu_tabs_hover">
+				<li><a href="#" title="content_1" class="menu_tab_hover active">Phantom I</a></li>
+				<li><a href="#" title="content_2" class="menu_tab_hover">Phantom II</a>
+				<li><a href="#" title="content_3" class="menu_tab_hover">Garage</a></li>
+				<li><a href="#" title="content_4" class="menu_tab_hover">Pr&eacute;f&eacute;rences</a></li>
+			</ul>
+
+		</div>
+		
+		<div id="battery_Phantom_As" class="battery">
+			<div id="battery_value_Phantom_As" class="battery_value"></div>
+			<div id="battery_bg_Phantom_As" class="battery_bg">
+				<div id="battery_bar_Phantom_As" class="battery_bar">	
+					<div id="battery_cover_Phantom_As" class="battery_cover"></div>
+				</div>
+				<div id="battery_state_Phantom_As" class="battery_state"></div>
+			</div>
+		</div>
+
+
+	</div>
+
+	<div id="content_1" class="content">
+		
+		<div id="view_box" class="view_box">
+			<div id="view_tabbed_box" class="tabbed_box">
+				<ul class="tabs">
+					<li><a href="#" title="content_view_1" id="tab_view_1" class="tab_view active_view">Vue subjective</a></li>
+					<li><a href="#" title="content_view_2" id="tab_view_2" class="tab_view">Autre</a></li>
+				</ul>
+			</div>
+
+			
+			<div id="content_view_1" class="content_view">
+			Rien pour l'instant
+			</div>
+
+			<div id="content_view_2" class="content_view">
+			Rien pour l'instant
+			</div>	
+		</div>
+
+		<div id="tool_box" class="tool_box">
+			<div id="tool_tabbed_box" class="tabbed_box">
+				<ul class="tabs">
+					<li><a href="#" title="content_tool_1" id="tab_tool_1" class="tab_tool active_tool">Controle</a></li>
+					<li><a href="#" title="content_tool_2" id="tab_tool_2" class="tab_tool">Autre</a></li>
+				</ul>
+			</div>
+
+			
+			<div id="content_tool_1" class="content_tool">
+			Rien pour l'instant
+			</div>
+
+			<div id="content_tool_2" class="content_tool">
+			Rien pour l'instant
+			</div>	
+		</div>
+
+		<div id="control_box" class="control_box">
+			<div id="control_tabbed_box" class="tabbed_box">
+				<ul class="tabs">
+					<li><a href="#" title="content_control_1" id="tab_control_1" class="tab_control active_control">Pad</a></li>
+					<li><a href="#" title="content_control_2" id="tab_control_2" class="tab_control">Sch&eacute;ma</a></li>
+				</ul>
+			</div>
+
+			
+			<div id="content_control_1" class="content_control">
+
+			     <div id="idUpButton" class="upButton"></div>
+			     <div id="idLeftButton" class= "leftButton"></div>
+			     <div id="idCenterButton" class="centerButton"></div>
+			     <div id="idRightButton" class="rightButton"></div>
+			     <div id="idDownButton" class="downButton"></div>
+			</div>
+
+			<div id="content_control_2" class="content_control">
+
+			<canvas id="game_area"></canvas>
+
+			</div>	
+		</div>
+
+		<div id="overview_box" class="overview_box">
+			<div id="overview_tabbed_box" class="tabbed_box">
+				<ul class="tabs">
+					<li><a href="#" title="content_overview_1" id="tab_overview_1" class="tab_overview active_overview">Vue d'ensemble</a></li>
+					<li><a href="#" title="content_overview_2" id="tab_overview_2" class="tab_overview">Journaux</a></li>
+					<li><a href="#" title="content_overview_3" id="tab_overview_3" class="tab_overview">Configuration</a></li>
+				</ul>
+			</div>
+
+			
+			<div id="content_overview_1" class="content_overview">
+				Rien pour l'instant	
+				<a href="#" id="test_battery">Test</a>
+
+				<div id="idClavier"></div>
+
+
+			</div>
+
+			<div id="content_overview_2" class="content_overview">
+			Rien pour l'instant
+			</div>	
+
+			<div id="content_overview_3" class="content_overview">
+			Rien pour l'instant
+			</div>	
+		</div>
+
+
+		<div id="cam_control_box" class="cam_control_box">	
+			<div id="cam_control_tabbed_box" class="tabbed_box">
+				<ul class="tabs">
+					<li><a href="#" title="content_cam_control_1" id="tab_cam_control_1" class="tab_cam_control active_cam_control">Pad</a></li>
+					<li><a href="#" title="content_cam_control_2" id="tab_cam_control_2" class="tab_cam_control">Autre</a></li>
+				</ul>
+			</div>
+
+			<div id="content_cam_control_1" class="content_cam_control">
+			     <div id="idUpButton" class="upButton"></div>
+			     <div id="idLeftButton" class="leftButton"></div>
+			     <div id="idCenterButton" class="centerButton"></div>
+			     <div id="idRightButton" class="rightButton"></div>
+			     <div id="idDownButton" class="downButton"></div>
+			</div>
+
+			<div id="content_cam_control_2" class="content_cam_control">
+				Rien pour l'instant
+			</div>	
+
+		</div>
+	</div>
+	
+	<div id="content_2" class="content">Contenu pour Phantom II</div>
+	<div id="content_3" class="content">Contenu pour Garage</div>
+	<div id="content_4" class="content">Contenu pour Preferences</div>
+	
+</body>
+</html>

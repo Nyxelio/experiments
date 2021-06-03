@@ -1,0 +1,8 @@
+FSG_BEGIN desktop-control
+NUM_STATES 2
+START_STATE 0
+FINAL_STATE 1
+
+# Transitions
+TRANSITION 0 1 1.0
+FSG_END

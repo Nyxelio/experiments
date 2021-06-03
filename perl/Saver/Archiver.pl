@@ -12,7 +12,7 @@
 # REQUIREMENTS:  ---
 #         BUGS:  ---
 #        NOTES:  ---
-#       AUTHOR:  [nyxelio]
+#       AUTHOR:  [Datenshi]
 #      COMPANY:  
 #      VERSION:  0.1
 #      CREATED:  23.06.2008 18:55:18 CEST
@@ -29,6 +29,7 @@ sub lister;
 
 print join ":", lister("./Php/");
 
+#$archive->add_files("./2D/");
 #$archive->write("backupFTP.tar.gz",2);
 
 sub lister

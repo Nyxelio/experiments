@@ -1,0 +1,169 @@
+/*
+__________________________________
+							   |	
+MISE EN PAGE 				   |
+							   |
+__________________________________
+*/
+
+
+body {background: transparent url("./src/images/fond_page.jpg"); 
+			position: absolute;
+			margin: 0px;
+			width: 100%;
+			height: 100%;
+}
+
+.banniere{	
+			margin: 0px;
+			background: rgb(185,92,0) url("./src/images/banniere.png") 20%;
+			height:150px;
+			width:100%;
+			
+}
+
+.navigation_top{background-color: rgb(185,92,0);
+					height: 25px;
+					width: 1000px;
+					float: left;
+					margin-bottom: 20px;
+}
+
+.navigation_top li{display: block;
+					float: left;
+					margin: 0px;
+					padding-left: 10px;
+					line-height: 25px;
+}
+
+#page {	background: transparent url("./src/images/fond.png") repeat-y; 
+		position: relative;
+		width: 1000px;
+		margin: 0 auto 0 auto;
+		padding: 0px 7px 0px 7px;
+		border: 1px solid;
+	
+}
+
+
+
+
+.menu{background-color: rgb(185,92,0);
+		height: 400px;
+		width: 210px;
+		padding: 5px;
+		float: left;
+		border-style: double;
+		margin-top: 7px;
+}
+
+.navigation_left{background-color: rgb(185,92,0);
+					height: 100px;
+					width: 210px;
+					float: left;
+					border-style: double;
+					margin-top:10px;
+}
+
+.titreInfo{position: relative;
+			float: right;
+			width: 700px;
+			text-align:center;
+			border: 2px solid;
+			background-color: rgb(185,92,0);
+			padding: 5px;
+			margin: 7px 0px 7px 0px;
+}
+
+.info{		position: relative;
+			float: right;
+			width: 700px;
+}
+
+.info_left{	position: relative;
+			float: left;
+			width: 250px;
+}
+
+.contenu{ background-color: rgb(185,92,0);
+			position: relative;
+			float: right;
+			width: 700px;
+			padding: 5px;
+			border: 2px solid;
+			margin-bottom: 7px;
+}
+
+.contenu_niv2{background-color: rgb(254,230,156);
+			width: 465px;
+			float: left;
+			border: 2px solid;
+			margin-left: 7px;
+			padding: 5px 5px 5px 5px;
+}
+
+.contenu_niv2 u{color: black;
+				font-weight: bold;
+}
+
+.img_album{background-color: rgb(254,230,156);
+			float: left;
+			border: 2px solid;
+			margin:0px 5px 5px 0px;
+}
+
+.foot{ background-color: rgb(185,92,0);
+			position: relative;
+			float: right;
+			width: 700px;
+			padding: 5px;
+			margin-top: 0px;
+			border-style: double;
+}
+
+.foot_contenu{ float: left;
+}
+
+.foot_logo{ float: right;
+}
+
+
+/*
+__________________________________
+							   |	
+MISE EN FORME 				   |
+							   |
+__________________________________
+*/
+
+li { list-style-type: none}
+
+li a{ color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+li a:hover{ text-decoration: underline}
+
+a{	color: white;
+	text-decoration: none;
+}
+
+a:hover{ text-decoration: underline}
+
+a#artbio{ text-decoration: underline;
+				color: black;
+}
+				
+a#artbio:hover{ text-decoration: underline;
+				color: white;
+}
+
+img#logo{ color:rgb(185,92,0);
+}
+
+select{background-color: rgb(254,237,186)}
+
+
+option {padding-left:20px;}
+option:hover{background: url("./src/images/arrow.gif") no-repeat;text-decoration:underline;}

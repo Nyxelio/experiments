@@ -1,0 +1,50 @@
+Language model created by QuickLM on Mon Sep 15 09:36:52 EDT 2008
+Copyright (c) 1996-2000
+Carnegie Mellon University and Alexander I. Rudnicky
+
+This model based on a corpus of 7 sentences and 9 words
+The (fixed) discount mass is 0.5
+
+\data\
+ngram 1=9
+ngram 2=14
+ngram 3=7
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.6232 EDITION -0.2218
+-1.6232 FERMER -0.2218
+-1.6232 FICHIER -0.2218
+-1.6232 METEO -0.2218
+-1.6232 OUVRIR -0.2218
+-1.6232 SELECTIONNER -0.2218
+-1.6232 SHAD -0.2218
+
+\2-grams:
+-1.1461 <s> EDITION 0.0000
+-1.1461 <s> FERMER 0.0000
+-1.1461 <s> FICHIER 0.0000
+-1.1461 <s> METEO 0.0000
+-1.1461 <s> OUVRIR 0.0000
+-1.1461 <s> SELECTIONNER 0.0000
+-1.1461 <s> SHAD 0.0000
+-0.3010 EDITION </s> -0.3010
+-0.3010 FERMER </s> -0.3010
+-0.3010 FICHIER </s> -0.3010
+-0.3010 METEO </s> -0.3010
+-0.3010 OUVRIR </s> -0.3010
+-0.3010 SELECTIONNER </s> -0.3010
+-0.3010 SHAD </s> -0.3010
+
+\3-grams:
+-0.3010 <s> EDITION </s>
+-0.3010 <s> FERMER </s>
+-0.3010 <s> FICHIER </s>
+-0.3010 <s> METEO </s>
+-0.3010 <s> OUVRIR </s>
+-0.3010 <s> SELECTIONNER </s>
+-0.3010 <s> SHAD </s>
+
+\end\
+

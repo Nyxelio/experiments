@@ -1,0 +1,29 @@
+fr1#Veuillez sélectionner l'émission :
+fr2#Emission
+fr3#Date
+fr4#Voulez-vous télécharger l'émission $TITREBASE" 
+fr5#Titre : $TITREBASE
+fr6#Date : $DATED
+fr7#Résumé : $RESUM
+fr8#Téléchargement de $TITREBASE $i
+fr9#Enregistrement de $TITREBASE $i
+fr10#Lecture
+fr11#Voulez ­vous prévisualiser $TITREBASE $i?
+fr12#enregistrement de $TITREBASE $i est terminé
+fr13#L'enregistrement de $TITREBASE $i est terminé
+fr14#Voulez­ vous lire $TITREBASE $i?
+
+de1#Bitte Sendung wählen :
+de2#Sendung
+de3#Datum
+de4#Möchten Sie $TITREBASE herunterladen?
+de5#Titel : $TITREBASE
+de6#Datum : $DATED
+de7#Inhaltsangabe : $RESUM
+de8#Download von $TITREBASE $i
+de9#Aufnahme von $TITREBASE $i
+de10#Ablesung
+de11#Möchten Sie $TITREBASE $i vorschauen?
+de12#Aufnahme von $TITREBASE $i erfolgreich abgeschlossen
+de13#Aufnahme von $TITREBASE $i erfolgreich abgeschlossen
+de14#Möchten Sie $TITREBASE $i abspielen?

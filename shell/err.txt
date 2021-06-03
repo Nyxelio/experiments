@@ -1,0 +1,28 @@
+Veuillez sélectionner l'émission :
+Emission
+Date
+Voulez-vous télécharger l'émission $TITREBASE" 
+Titre : $TITREBASE
+Date : $DATED
+Résumé : $RESUM
+Téléchargement de $TITREBASE $i
+Enregistrement de $TITREBASE $i
+Lecture
+Voulez ­vous prévisualiser $TITREBASE $i?
+enregistrement de $TITREBASE $i est terminé
+L'enregistrement de $TITREBASE $i est terminé
+Voulez­ vous lire $TITREBASE $i?
+Bitte Sendung wählen :
+Sendung
+Datum
+Möchten Sie $TITREBASE herunterladen?
+Titel : $TITREBASE
+Datum : $DATED
+Inhaltsangabe : $RESUM
+Download von $TITREBASE $i
+Aufnahme von $TITREBASE $i
+Ablesung
+Möchten Sie $TITREBASE $i vorschauen?
+Aufnahme von $TITREBASE $i erfolgreich abgeschlossen
+Aufnahme von $TITREBASE $i erfolgreich abgeschlossen
+Möchten Sie $TITREBASE $i abspielen?

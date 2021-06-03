@@ -1,0 +1,14 @@
+#!/usr/bin/env python
+from Tkinter import *
+ma_fenetre = Tk()
+ma_fenetre.title("Ma fenetre")
+
+mon_entree = Entry(ma_fenetre,bg='white')
+mon_entree.pack()
+
+Button(ma_fenetre,text='Quitter',command=ma_fenetre.quit).pack()
+ma_fenetre.mainloop()
+
+def print_entree():
+	global mon_entree
+	print mon_entree.get()

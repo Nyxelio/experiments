@@ -1,0 +1,7 @@
+shad
+ouvrir
+fermer
+meteo
+selectionner
+fichier
+edition

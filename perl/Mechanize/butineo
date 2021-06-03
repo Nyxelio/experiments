@@ -1,0 +1,98 @@
+//connexion
+connexion openFancybox=>www.butineo.fr/logon/popin
+
+//(jquery plugin)
+<script type="text/javascript">
+        $(document).ready(function () {
+            //appel de fancybox
+            $("a.openFancybox").fancybox();
+        });
+    </script>
+//!
+
+//
+<body>
+
+<section class="header bar">
+	<div class="content-header">
+		<div class="text">Jouez aux centaines de jeux <span class="mark">Butineo</span> et gagnez des cadeaux incroyables</div>
+		<div class="sep"></div>
+		<div class="box">
+			<ul class="links">
+				<li><a class="openFancybox" href="/logon/popin">Connexion</a></li>
+				<li><a href="/inscription" class="button"><span>Devenir membre</span></a></li>
+			</ul>
+	    </div>
+	</div>
+</section>
+//!
+
+//
+   <div id="PedagoHideLogin" style="display: none">
+        <a class="openFancybox" id="log2" href="/LogOn/PopIn">p</a>
+    </div> 
+    <div id="PedagoHide" style="display: none">
+        <div id="pedago">
+            <div class="title">
+                <h1>
+                    <strong>Comment jouer à Butineo,</strong> le site 100% gagnant ?</h1>
+                <p>
+                    Butineo est le site n°1 en France de jeux-concours par tirage au sort qui vous permet
+                    de gagner un maximum de cadeaux, en quelques clics. Pour jouer, il suffit de vous
+                    s’inscrire, de choisir le lot que vous souhaitez gagner, puis de valider chacune
+                    de vos participations.</p>
+            </div>
+            <div class="explain">
+                <a href="/inscription" class="step1">Inscrivez-vous <b>gratuitement</b></a> <a href="/inscription"
+                    class="step2">Choisissez le lot de vos <b>rêves</b></a> <a href="/inscription" class="step3">
+                        Validez votre <b>participation</b></a>
+            </div>
+            <section class="bar">
+		    <div class="text">Jouez aux centaines de jeux <span class="mark">Butineo</span> et gagnez des cadeaux incroyables</div>
+		    <div class="box">
+			    <ul class="links"> 
+				    <li><a  class="openFancyboxpopin" href="#">Déjà membre, Cliquez ici !</a></li>
+				    <li><a href="/inscription" class="button"><span>Devenir membre</span></a></li>
+			    </ul>
+		    </div>
+	     </section>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //ouverture bloc pedago sur la home
+            $("a#openPedago").fancybox().trigger('click');
+
+            $("a.openFancyboxpopin").click(function () {
+                $("a#log2").fancybox().trigger('click');
+            });
+        });
+    </script> 
+//!
+
+
+
+
+
+
+
+
+http://www.butineo.fr/thankyou/postquestionnaire?prizeId=13487&pageNumber=1&pageSize=10
+http://www.butineo.fr/lot-deja-participe?prizeId=13492
+
+//bonus supplémentaire
+http://www.butineo.fr/thankyou/bonus?prizeId=13500&pageNumber=1&pageSize=10
+//validation bonus
+http://www.butineo.fr/thankyou/postbonus?prizeId=13635&pageNumber=1&pageSize=10
+
+//trouver nouveaux lots
+tout les lots, différents classements
+
+http://www.butineo.fr/en-un-clic/13387
+
+//compteur ou date de cloture
+
+//base de données, si nouveau lot
+
+
+//radins.com

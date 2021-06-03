@@ -1,0 +1,11 @@
+#!/bin/sh
+#générateur de scripts cobaye
+#./gen NomDesFichiers phraseAAfficher NombreDefichiersACrée
+x=1
+while [ $x -le $3 ]
+do
+echo "#!/usr/bin/python" > $1$x
+echo "print \"$2\"" >> $1$x
+chmod +x $1$x
+x=`expr $x + 1`
+done

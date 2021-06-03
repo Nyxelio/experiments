@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/festlang/!svn/ver/209/trunk/gnome-voice-control
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/festlang/!svn/ver/202/trunk/gnome-voice-control/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/festlang/!svn/ver/27/trunk/gnome-voice-control/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/festlang/!svn/ver/26/trunk/gnome-voice-control/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/festlang/!svn/ver/204/trunk/gnome-voice-control/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/festlang/!svn/ver/26/trunk/gnome-voice-control/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/festlang/!svn/ver/74/trunk/gnome-voice-control/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/festlang/!svn/ver/26/trunk/gnome-voice-control/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/festlang/!svn/ver/149/trunk/gnome-voice-control/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/festlang/!svn/ver/196/trunk/gnome-voice-control/README
+END

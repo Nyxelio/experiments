@@ -1,0 +1,43 @@
+-------------------------
+gnome-voice-control 0.3.0
+-------------------------
+
+New features and UI improvements:
+
+    * Port to pocketsphinx, much faster now with wsj model.
+    * Libnotify support.
+    * New actions for clicks, keyboard and main menu.
+    
+Thanks:
+
+    David Huggins-Daines
+    Marius Andreiana
+
+Translators:
+
+    Olivier Blanc (fr)
+
+-------------------------
+gnome-voice-control 0.2.0
+-------------------------
+
+New features and UI improvements:
+
+    * Opens gedit with the command RUN TEXT EDITOR 
+    * Controls UI with accessibilit.
+
+Bug fixes:
+
+    * Calibration lock is partially fixed
+
+Translators:
+
+    Nickolay V. Shmyrev (ru)
+    Daniel Nylander (sv)
+
+-------------------------
+gnome-voice-control 0.1.0
+-------------------------
+
+Initial release.
+

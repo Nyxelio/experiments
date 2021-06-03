@@ -1,0 +1,36 @@
+#!/usr/bin/env python
+from Tkinter import *
+ma_fenetre=Tk()
+
+#titre de la fenetre
+ma_fenetre.title("programme")
+
+#cadre pour label
+mon_cadre=Frame(ma_fenetre)
+mon_cadre.pack()
+
+#label
+Label(mon_cadre,text='Entrer le groupe, l\'album et la date:').grid(row=0,column=0)
+
+#Zone de saisie
+mon_entree= Entry(mon_cadre,bg='white')
+mon_entree.grid(row=1,column=0)
+
+#definition de la fonction 'ecrire dans le fichier'
+def add():
+	global mon_entree
+	donnees=mon_entree.get()
+	fichier=open('/home/nightmare/list.txt','w')
+	fichier.write('\n')
+	fichier.write(donnees)
+	fichier.close()
+
+#cadre pour boutons et boutons
+cadre_boutons=Frame(ma_fenetre,padx=10,pady=5)
+cadre_boutons.pack()
+Button(cadre_boutons,text='Ecrire',command=add,height=3,width=3).grid(row=0,column=0)
+Button(cadre_boutons,text='Quitter',command=ma_fenetre.quit,height=3, width=3).grid(row=0,column=1)
+
+
+ma_fenetre.mainloop()
+

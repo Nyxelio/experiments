@@ -1,0 +1,133 @@
+http://www.lipala.com/xml/ticket_gratuit_score.php?id_jeu=3
+
+GET /xml/ticket_gratuit_score.php?id_jeu=3 HTTP/1.1
+Host: www.lipala.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: classement_time=1356521015; PHPSESSID=8ef6037533c310ad5530bdb27bc86c18
+
+HTTP/1.1 200 OK
+Date: Wed, 26 Dec 2012 19:18:56 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 126
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.lipala.com/infos_membre_gratuits.php
+
+GET /infos_membre_gratuits.php HTTP/1.1
+Host: www.lipala.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.lipala.com/ticket_gratuit.php?game=3
+Cookie: classement_time=1356521015; PHPSESSID=8ef6037533c310ad5530bdb27bc86c18
+
+HTTP/1.1 200 OK
+Date: Wed, 26 Dec 2012 19:18:56 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 27
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.lipala.com/infos_membre_payants.php
+
+GET /infos_membre_payants.php HTTP/1.1
+Host: www.lipala.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.lipala.com/ticket_gratuit.php?game=3
+Cookie: classement_time=1356521015; PHPSESSID=8ef6037533c310ad5530bdb27bc86c18
+
+HTTP/1.1 200 OK
+Date: Wed, 26 Dec 2012 19:18:56 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 21
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.lipala.com/infos_membre_points.php
+
+GET /infos_membre_points.php HTTP/1.1
+Host: www.lipala.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.lipala.com/ticket_gratuit.php?game=3
+Cookie: classement_time=1356521015; PHPSESSID=8ef6037533c310ad5530bdb27bc86c18
+
+HTTP/1.1 200 OK
+Date: Wed, 26 Dec 2012 19:18:56 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 23
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------
+http://www.lipala.com/infos_membre_euros.php
+
+GET /infos_membre_euros.php HTTP/1.1
+Host: www.lipala.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Accept: */*
+Accept-Language: fr,fr-fr;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.lipala.com/ticket_gratuit.php?game=3
+Cookie: classement_time=1356521015; PHPSESSID=8ef6037533c310ad5530bdb27bc86c18
+
+HTTP/1.1 200 OK
+Date: Wed, 26 Dec 2012 19:18:56 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8o
+X-Powered-By: PHP/5.2.13-pl1-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Length: 24
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+----------------------------------------------------------

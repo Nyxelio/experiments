@@ -1,0 +1,10 @@
+K 10
+Svn:ignore
+V 8
+.project
+K 10
+svn:ignore
+V 11
+.classpath
+
+END

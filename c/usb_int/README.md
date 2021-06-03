@@ -1,1 +1,0 @@
-Connect to usb port and relies on system signals to handle actions.

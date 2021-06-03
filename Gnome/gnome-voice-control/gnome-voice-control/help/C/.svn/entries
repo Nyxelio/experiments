@@ -1,0 +1,52 @@
+8
+
+dir
+219
+http://svn.berlios.de/svnroot/repos/festlang/trunk/gnome-voice-control/help/C
+http://svn.berlios.de/svnroot/repos/festlang
+
+
+
+2007-12-08T15:34:42.606023Z
+150
+nsh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3ccbf08f-adf1-0310-975e-a3baaf75e68e
+
+legal.xml
+file
+
+
+
+
+2008-09-11T16:57:06.000000Z
+079f9049bec3c1866c67e3312d563eed
+2007-06-03T10:26:17.524742Z
+70
+nsh
+
+gnome-voice-control.xml
+file
+
+
+
+
+2008-09-11T16:57:06.000000Z
+9524476c8fbbd5420d6e470f19c089e4
+2007-12-08T15:34:42.606023Z
+150
+nsh
+
